@@ -16,7 +16,7 @@
         "STL": "1.3",
         "BLK": "0.7",
         "TO": "3.1",
-        "TOTAL": "14.76"
+        "TOTAL": "14.71"
     },
     {
         "R#": "2",
@@ -35,11 +35,11 @@
         "STL": "1.2",
         "BLK": "0.8",
         "TO": "3.9",
-        "TOTAL": "12.06"
+        "TOTAL": "12.01"
     },
     {
         "R#": "3",
-        "ADP": "4.3",
+        "ADP": "4.1",
         "PLAYER": "Stephen Curry",
         "POS": "PG,SG",
         "Team": "GSW",
@@ -54,7 +54,7 @@
         "STL": "1.2",
         "BLK": "0.1",
         "TO": "3.4",
-        "TOTAL": "11.77"
+        "TOTAL": "11.71"
     },
     {
         "R#": "4",
@@ -73,7 +73,7 @@
         "STL": "0.7",
         "BLK": "1.3",
         "TO": "3.4",
-        "TOTAL": "10.84"
+        "TOTAL": "10.78"
     },
     {
         "R#": "5",
@@ -92,7 +92,7 @@
         "STL": "0.9",
         "BLK": "0.3",
         "TO": "2.9",
-        "TOTAL": "10.09"
+        "TOTAL": "10.03"
     },
     {
         "R#": "6",
@@ -111,11 +111,11 @@
         "STL": "0.8",
         "BLK": "1.3",
         "TO": "3.2",
-        "TOTAL": "9.95"
+        "TOTAL": "9.90"
     },
     {
         "R#": "7",
-        "ADP": "14.3",
+        "ADP": "14.1",
         "PLAYER": "Bradley Beal",
         "POS": "SG,SF",
         "Team": "WAS",
@@ -130,11 +130,11 @@
         "STL": "1.2",
         "BLK": "0.4",
         "TO": "3.1",
-        "TOTAL": "9.27"
+        "TOTAL": "9.21"
     },
     {
         "R#": "8",
-        "ADP": "9.2",
+        "ADP": "9.3",
         "PLAYER": "Joel Embiid",
         "POS": "PF,C",
         "Team": "PHI",
@@ -149,11 +149,11 @@
         "STL": "1.0",
         "BLK": "1.3",
         "TO": "3.0",
-        "TOTAL": "8.68"
+        "TOTAL": "8.63"
     },
     {
         "R#": "9",
-        "ADP": "10.1",
+        "ADP": "10.0",
         "PLAYER": "Jayson Tatum",
         "POS": "SF,PF",
         "Team": "BOS",
@@ -168,11 +168,11 @@
         "STL": "1.2",
         "BLK": "0.5",
         "TO": "2.7",
-        "TOTAL": "8.16"
+        "TOTAL": "8.11"
     },
     {
         "R#": "10",
-        "ADP": "4.2",
+        "ADP": "4.4",
         "PLAYER": "Giannis Antetokounmpo",
         "POS": "PF,C",
         "Team": "MIL",
@@ -187,11 +187,11 @@
         "STL": "1.2",
         "BLK": "1.2",
         "TO": "3.4",
-        "TOTAL": "7.99"
+        "TOTAL": "7.94"
     },
     {
         "R#": "11",
-        "ADP": "13.0",
+        "ADP": "12.9",
         "PLAYER": "Paul George",
         "POS": "SF,PF",
         "Team": "LAC",
@@ -206,7 +206,7 @@
         "STL": "1.1",
         "BLK": "0.4",
         "TO": "3.4",
-        "TOTAL": "7.88"
+        "TOTAL": "7.82"
     },
     {
         "R#": "12",
@@ -225,11 +225,11 @@
         "STL": "1.0",
         "BLK": "0.5",
         "TO": "4.4",
-        "TOTAL": "7.36"
+        "TOTAL": "7.31"
     },
     {
         "R#": "13",
-        "ADP": "12.4",
+        "ADP": "12.6",
         "PLAYER": "Anthony Davis",
         "POS": "PF,C",
         "Team": "LAL",
@@ -244,11 +244,11 @@
         "STL": "1.3",
         "BLK": "2.0",
         "TO": "2.0",
-        "TOTAL": "7.32"
+        "TOTAL": "7.26"
     },
     {
         "R#": "14",
-        "ADP": "12.7",
+        "ADP": "12.8",
         "PLAYER": "Trae Young",
         "POS": "PG",
         "Team": "ATL",
@@ -263,11 +263,11 @@
         "STL": "0.8",
         "BLK": "0.2",
         "TO": "4.0",
-        "TOTAL": "6.80"
+        "TOTAL": "6.74"
     },
     {
         "R#": "15",
-        "ADP": "31.4",
+        "ADP": "38.0",
         "PLAYER": "Kyrie Irving",
         "POS": "PG,SG",
         "Team": "BRO",
@@ -282,11 +282,11 @@
         "STL": "1.2",
         "BLK": "0.5",
         "TO": "2.6",
-        "TOTAL": "6.49"
+        "TOTAL": "6.43"
     },
     {
         "R#": "16",
-        "ADP": "20.2",
+        "ADP": "20.0",
         "PLAYER": "Bam Adebayo",
         "POS": "PF,C",
         "Team": "MIA",
@@ -301,7 +301,7 @@
         "STL": "1.2",
         "BLK": "1.0",
         "TO": "2.6",
-        "TOTAL": "6.38"
+        "TOTAL": "6.32"
     },
     {
         "R#": "17",
@@ -320,11 +320,11 @@
         "STL": "1.6",
         "BLK": "0.7",
         "TO": "1.7",
-        "TOTAL": "6.34"
+        "TOTAL": "6.29"
     },
     {
         "R#": "18",
-        "ADP": "19.3",
+        "ADP": "19.1",
         "PLAYER": "Jimmy Butler",
         "POS": "SF,PF",
         "Team": "MIA",
@@ -339,11 +339,11 @@
         "STL": "1.7",
         "BLK": "0.3",
         "TO": "2.0",
-        "TOTAL": "6.22"
+        "TOTAL": "6.16"
     },
     {
         "R#": "19",
-        "ADP": "18.9",
+        "ADP": "18.7",
         "PLAYER": "Domantas Sabonis",
         "POS": "PF,C",
         "Team": "IND",
@@ -358,11 +358,11 @@
         "STL": "1.2",
         "BLK": "0.5",
         "TO": "3.3",
-        "TOTAL": "6.20"
+        "TOTAL": "6.14"
     },
     {
         "R#": "20",
-        "ADP": "29.8",
+        "ADP": "29.9",
         "PLAYER": "Shai Gilgeous-Alexander",
         "POS": "PG,SG",
         "Team": "OKL",
@@ -377,11 +377,11 @@
         "STL": "0.8",
         "BLK": "0.7",
         "TO": "3.0",
-        "TOTAL": "6.15"
+        "TOTAL": "6.09"
     },
     {
         "R#": "21",
-        "ADP": "17.1",
+        "ADP": "17.2",
         "PLAYER": "Nikola Vucevic",
         "POS": "C",
         "Team": "CHI",
@@ -396,11 +396,11 @@
         "STL": "0.9",
         "BLK": "0.8",
         "TO": "1.8",
-        "TOTAL": "5.97"
+        "TOTAL": "5.91"
     },
     {
         "R#": "22",
-        "ADP": "20.6",
+        "ADP": "20.9",
         "PLAYER": "LeBron James",
         "POS": "PG,SG,SF",
         "Team": "LAL",
@@ -415,11 +415,11 @@
         "STL": "1.1",
         "BLK": "0.6",
         "TO": "3.6",
-        "TOTAL": "5.86"
+        "TOTAL": "5.80"
     },
     {
         "R#": "23",
-        "ADP": "31.3",
+        "ADP": "31.4",
         "PLAYER": "Chris Paul",
         "POS": "PG",
         "Team": "PHX",
@@ -434,7 +434,7 @@
         "STL": "1.3",
         "BLK": "0.3",
         "TO": "2.2",
-        "TOTAL": "5.78"
+        "TOTAL": "5.72"
     },
     {
         "R#": "24",
@@ -453,11 +453,11 @@
         "STL": "0.8",
         "BLK": "0.5",
         "TO": "3.3",
-        "TOTAL": "5.77"
+        "TOTAL": "5.71"
     },
     {
         "R#": "25",
-        "ADP": "26.1",
+        "ADP": "25.8",
         "PLAYER": "LaMelo Ball",
         "POS": "PG,SG",
         "Team": "CHA",
@@ -472,11 +472,11 @@
         "STL": "1.8",
         "BLK": "0.5",
         "TO": "3.2",
-        "TOTAL": "5.69"
+        "TOTAL": "5.63"
     },
     {
         "R#": "26",
-        "ADP": "28.9",
+        "ADP": "28.4",
         "PLAYER": "Michael Porter Jr.",
         "POS": "SF,PF",
         "Team": "DEN",
@@ -491,11 +491,11 @@
         "STL": "0.7",
         "BLK": "0.9",
         "TO": "1.4",
-        "TOTAL": "5.61"
+        "TOTAL": "5.54"
     },
     {
         "R#": "27",
-        "ADP": "41.2",
+        "ADP": "41.3",
         "PLAYER": "Jrue Holiday",
         "POS": "PG,SG",
         "Team": "MIL",
@@ -510,11 +510,11 @@
         "STL": "1.6",
         "BLK": "0.6",
         "TO": "2.2",
-        "TOTAL": "5.56"
+        "TOTAL": "5.50"
     },
     {
         "R#": "28",
-        "ADP": "52.2",
+        "ADP": "51.5",
         "PLAYER": "Jaren Jackson Jr.",
         "POS": "PF,C",
         "Team": "MEM",
@@ -529,7 +529,7 @@
         "STL": "1.1",
         "BLK": "1.8",
         "TO": "1.9",
-        "TOTAL": "5.51"
+        "TOTAL": "5.45"
     },
     {
         "R#": "29",
@@ -548,11 +548,11 @@
         "STL": "0.6",
         "BLK": "2.7",
         "TO": "1.7",
-        "TOTAL": "5.38"
+        "TOTAL": "5.32"
     },
     {
         "R#": "30",
-        "ADP": "44.7",
+        "ADP": "44.3",
         "PLAYER": "Richaun Holmes",
         "POS": "PF,C",
         "Team": "SAC",
@@ -567,11 +567,11 @@
         "STL": "0.6",
         "BLK": "1.7",
         "TO": "1.3",
-        "TOTAL": "5.38"
+        "TOTAL": "5.31"
     },
     {
         "R#": "31",
-        "ADP": "42.3",
+        "ADP": "42.5",
         "PLAYER": "Tobias Harris",
         "POS": "SF,PF",
         "Team": "PHI",
@@ -586,11 +586,11 @@
         "STL": "0.9",
         "BLK": "0.8",
         "TO": "1.7",
-        "TOTAL": "5.31"
+        "TOTAL": "5.25"
     },
     {
         "R#": "32",
-        "ADP": "24.3",
+        "ADP": "24.1",
         "PLAYER": "Donovan Mitchell",
         "POS": "PG,SG",
         "Team": "UTA",
@@ -605,11 +605,11 @@
         "STL": "1.0",
         "BLK": "0.3",
         "TO": "2.8",
-        "TOTAL": "5.20"
+        "TOTAL": "5.14"
     },
     {
         "R#": "33",
-        "ADP": "43.8",
+        "ADP": "43.7",
         "PLAYER": "Myles Turner",
         "POS": "PF,C",
         "Team": "IND",
@@ -624,11 +624,11 @@
         "STL": "0.9",
         "BLK": "3.0",
         "TO": "1.4",
-        "TOTAL": "5.19"
+        "TOTAL": "5.13"
     },
     {
         "R#": "34",
-        "ADP": "47.1",
+        "ADP": "47.2",
         "PLAYER": "Kristaps Porzingis",
         "POS": "PF,C",
         "Team": "DAL",
@@ -643,11 +643,11 @@
         "STL": "0.5",
         "BLK": "1.5",
         "TO": "1.2",
-        "TOTAL": "5.12"
+        "TOTAL": "5.07"
     },
     {
         "R#": "35",
-        "ADP": "36.9",
+        "ADP": "36.8",
         "PLAYER": "Jaylen Brown",
         "POS": "SG,SF",
         "Team": "BOS",
@@ -662,11 +662,11 @@
         "STL": "1.2",
         "BLK": "0.6",
         "TO": "2.7",
-        "TOTAL": "5.12"
+        "TOTAL": "5.06"
     },
     {
         "R#": "36",
-        "ADP": "37.6",
+        "ADP": "37.4",
         "PLAYER": "Brandon Ingram",
         "POS": "SF,PF",
         "Team": "NOP",
@@ -681,11 +681,11 @@
         "STL": "0.7",
         "BLK": "0.6",
         "TO": "2.5",
-        "TOTAL": "5.06"
+        "TOTAL": "5.00"
     },
     {
         "R#": "37",
-        "ADP": "29.7",
+        "ADP": "29.5",
         "PLAYER": "Deandre Ayton",
         "POS": "C",
         "Team": "PHX",
@@ -700,11 +700,11 @@
         "STL": "0.6",
         "BLK": "1.2",
         "TO": "1.6",
-        "TOTAL": "4.91"
+        "TOTAL": "4.85"
     },
     {
         "R#": "38",
-        "ADP": "42.9",
+        "ADP": "42.6",
         "PLAYER": "Clint Capela",
         "POS": "C",
         "Team": "ATL",
@@ -719,11 +719,11 @@
         "STL": "0.7",
         "BLK": "2.1",
         "TO": "1.3",
-        "TOTAL": "4.84"
+        "TOTAL": "4.79"
     },
     {
         "R#": "39",
-        "ADP": "35.4",
+        "ADP": "35.5",
         "PLAYER": "Khris Middleton",
         "POS": "SF,PF",
         "Team": "MIL",
@@ -738,11 +738,11 @@
         "STL": "1.1",
         "BLK": "0.1",
         "TO": "2.6",
-        "TOTAL": "4.79"
+        "TOTAL": "4.73"
     },
     {
         "R#": "40",
-        "ADP": "25.7",
+        "ADP": "25.3",
         "PLAYER": "Devin Booker",
         "POS": "SG,SF",
         "Team": "PHX",
@@ -757,11 +757,11 @@
         "STL": "0.8",
         "BLK": "0.2",
         "TO": "3.2",
-        "TOTAL": "4.57"
+        "TOTAL": "4.51"
     },
     {
         "R#": "41",
-        "ADP": "27.0",
+        "ADP": "27.1",
         "PLAYER": "Julius Randle",
         "POS": "PF,C",
         "Team": "NYK",
@@ -772,15 +772,15 @@
         "3PM": "1.8",
         "PTS": "22.1",
         "TREB": "9.8",
-        "AST": "4.8",
+        "AST": "4.4",
         "STL": "0.9",
         "BLK": "0.3",
         "TO": "3.3",
-        "TOTAL": "4.52"
+        "TOTAL": "4.28"
     },
     {
         "R#": "42",
-        "ADP": "49.8",
+        "ADP": "49.4",
         "PLAYER": "OG Anunoby",
         "POS": "SF,PF",
         "Team": "TOR",
@@ -795,11 +795,11 @@
         "STL": "1.5",
         "BLK": "0.7",
         "TO": "1.7",
-        "TOTAL": "4.32"
+        "TOTAL": "4.26"
     },
     {
         "R#": "43",
-        "ADP": "54.8",
+        "ADP": "54.6",
         "PLAYER": "Tyrese Haliburton",
         "POS": "PG,SG",
         "Team": "SAC",
@@ -814,11 +814,11 @@
         "STL": "1.4",
         "BLK": "0.5",
         "TO": "1.7",
-        "TOTAL": "4.31"
+        "TOTAL": "4.25"
     },
     {
         "R#": "44",
-        "ADP": "58.0",
+        "ADP": "57.6",
         "PLAYER": "Robert Williams",
         "POS": "C",
         "Team": "BOS",
@@ -833,11 +833,11 @@
         "STL": "0.9",
         "BLK": "2.0",
         "TO": "1.2",
-        "TOTAL": "4.20"
+        "TOTAL": "4.13"
     },
     {
         "R#": "45",
-        "ADP": "29.7",
+        "ADP": "32.9",
         "PLAYER": "Zion Williamson",
         "POS": "PF",
         "Team": "NOP",
@@ -852,11 +852,11 @@
         "STL": "1.0",
         "BLK": "0.7",
         "TO": "2.9",
-        "TOTAL": "4.19"
+        "TOTAL": "4.13"
     },
     {
         "R#": "46",
-        "ADP": "50.3",
+        "ADP": "49.9",
         "PLAYER": "CJ McCollum",
         "POS": "PG,SG",
         "Team": "POR",
@@ -871,11 +871,11 @@
         "STL": "0.9",
         "BLK": "0.4",
         "TO": "1.4",
-        "TOTAL": "4.12"
+        "TOTAL": "4.06"
     },
     {
         "R#": "47",
-        "ADP": "51.6",
+        "ADP": "50.6",
         "PLAYER": "Lonzo Ball",
         "POS": "PG,SG",
         "Team": "CHI",
@@ -890,11 +890,11 @@
         "STL": "1.5",
         "BLK": "0.6",
         "TO": "2.3",
-        "TOTAL": "4.02"
+        "TOTAL": "3.96"
     },
     {
         "R#": "48",
-        "ADP": "42.9",
+        "ADP": "43.0",
         "PLAYER": "John Collins",
         "POS": "PF,C",
         "Team": "ATL",
@@ -909,11 +909,11 @@
         "STL": "0.5",
         "BLK": "1.0",
         "TO": "1.3",
-        "TOTAL": "4.02"
+        "TOTAL": "3.95"
     },
     {
         "R#": "49",
-        "ADP": "61.7",
+        "ADP": "61.5",
         "PLAYER": "Draymond Green",
         "POS": "PF,C",
         "Team": "GSW",
@@ -928,11 +928,11 @@
         "STL": "1.6",
         "BLK": "0.8",
         "TO": "3.1",
-        "TOTAL": "4.00"
+        "TOTAL": "3.95"
     },
     {
         "R#": "50",
-        "ADP": "68.9",
+        "ADP": "68.7",
         "PLAYER": "Gordon Hayward",
         "POS": "SG,SF",
         "Team": "CHA",
@@ -947,11 +947,11 @@
         "STL": "1.2",
         "BLK": "0.3",
         "TO": "2.1",
-        "TOTAL": "3.99"
+        "TOTAL": "3.93"
     },
     {
         "R#": "51",
-        "ADP": "67.6",
+        "ADP": "67.7",
         "PLAYER": "Pascal Siakam",
         "POS": "PF,C",
         "Team": "TOR",
@@ -966,11 +966,11 @@
         "STL": "1.1",
         "BLK": "0.7",
         "TO": "2.2",
-        "TOTAL": "3.95"
+        "TOTAL": "3.89"
     },
     {
         "R#": "52",
-        "ADP": "71.8",
+        "ADP": "71.3",
         "PLAYER": "Derrick White",
         "POS": "PG,SG",
         "Team": "SAS",
@@ -985,11 +985,11 @@
         "STL": "1.0",
         "BLK": "1.0",
         "TO": "1.5",
-        "TOTAL": "3.91"
+        "TOTAL": "3.85"
     },
     {
         "R#": "53",
-        "ADP": "38.0",
+        "ADP": "36.9",
         "PLAYER": "De'Aaron Fox",
         "POS": "PG",
         "Team": "SAC",
@@ -1004,11 +1004,11 @@
         "STL": "1.5",
         "BLK": "0.5",
         "TO": "3.0",
-        "TOTAL": "3.84"
+        "TOTAL": "3.78"
     },
     {
         "R#": "54",
-        "ADP": "52.4",
+        "ADP": "52.2",
         "PLAYER": "Dejounte Murray",
         "POS": "PG,SG",
         "Team": "SAS",
@@ -1023,11 +1023,11 @@
         "STL": "1.6",
         "BLK": "0.1",
         "TO": "1.8",
-        "TOTAL": "3.81"
+        "TOTAL": "3.75"
     },
     {
         "R#": "55",
-        "ADP": "88.9",
+        "ADP": "89.0",
         "PLAYER": "Mike Conley",
         "POS": "PG",
         "Team": "UTA",
@@ -1042,30 +1042,11 @@
         "STL": "1.3",
         "BLK": "0.2",
         "TO": "1.9",
-        "TOTAL": "3.43"
+        "TOTAL": "3.37"
     },
     {
         "R#": "56",
-        "ADP": "84.1",
-        "PLAYER": "Jakob Poeltl",
-        "POS": "C",
-        "Team": "SAS",
-        "GP": "77",
-        "MPG": "31.3",
-        "FG%": "0.603  (4.4\/7.4)",
-        "FT%": "0.583  (1.1\/1.8)",
-        "3PM": "0.0",
-        "PTS": "9.9",
-        "TREB": "9.4",
-        "AST": "2.2",
-        "STL": "0.8",
-        "BLK": "2.1",
-        "TO": "1.4",
-        "TOTAL": "3.43"
-    },
-    {
-        "R#": "57",
-        "ADP": "56.8",
+        "ADP": "56.4",
         "PLAYER": "Jusuf Nurkic",
         "POS": "C",
         "Team": "POR",
@@ -1080,11 +1061,30 @@
         "STL": "1.0",
         "BLK": "1.5",
         "TO": "2.6",
-        "TOTAL": "3.43"
+        "TOTAL": "3.37"
+    },
+    {
+        "R#": "57",
+        "ADP": "82.8",
+        "PLAYER": "Jakob Poeltl",
+        "POS": "C",
+        "Team": "SAS",
+        "GP": "77",
+        "MPG": "31.3",
+        "FG%": "0.603  (4.4\/7.4)",
+        "FT%": "0.583  (1.1\/1.8)",
+        "3PM": "0.0",
+        "PTS": "9.9",
+        "TREB": "9.4",
+        "AST": "2.2",
+        "STL": "0.8",
+        "BLK": "2.1",
+        "TO": "1.4",
+        "TOTAL": "3.37"
     },
     {
         "R#": "58",
-        "ADP": "60.9",
+        "ADP": "61.6",
         "PLAYER": "Malcolm Brogdon",
         "POS": "PG,SG",
         "Team": "IND",
@@ -1099,11 +1099,11 @@
         "STL": "0.9",
         "BLK": "0.3",
         "TO": "2.1",
-        "TOTAL": "3.42"
+        "TOTAL": "3.36"
     },
     {
         "R#": "59",
-        "ADP": "60.0",
+        "ADP": "59.5",
         "PLAYER": "Mikal Bridges",
         "POS": "SG,SF",
         "Team": "PHX",
@@ -1118,11 +1118,11 @@
         "STL": "1.1",
         "BLK": "0.9",
         "TO": "0.8",
-        "TOTAL": "3.32"
+        "TOTAL": "3.26"
     },
     {
         "R#": "60",
-        "ADP": "68.3",
+        "ADP": "68.7",
         "PLAYER": "Terry Rozier",
         "POS": "PG,SG",
         "Team": "CHA",
@@ -1137,11 +1137,11 @@
         "STL": "1.2",
         "BLK": "0.4",
         "TO": "1.9",
-        "TOTAL": "3.31"
+        "TOTAL": "3.25"
     },
     {
         "R#": "61",
-        "ADP": "64.4",
+        "ADP": "64.3",
         "PLAYER": "Kyle Lowry",
         "POS": "PG",
         "Team": "MIA",
@@ -1156,11 +1156,11 @@
         "STL": "0.9",
         "BLK": "0.3",
         "TO": "2.5",
-        "TOTAL": "3.20"
+        "TOTAL": "3.14"
     },
     {
         "R#": "62",
-        "ADP": "52.0",
+        "ADP": "52.3",
         "PLAYER": "Jonas Valanciunas",
         "POS": "C",
         "Team": "NOP",
@@ -1175,11 +1175,11 @@
         "STL": "0.5",
         "BLK": "0.9",
         "TO": "1.6",
-        "TOTAL": "3.13"
+        "TOTAL": "3.07"
     },
     {
         "R#": "63",
-        "ADP": "79.3",
+        "ADP": "78.2",
         "PLAYER": "Bogdan Bogdanovic",
         "POS": "SF,PF",
         "Team": "ATL",
@@ -1194,7 +1194,7 @@
         "STL": "1.1",
         "BLK": "0.3",
         "TO": "1.2",
-        "TOTAL": "3.12"
+        "TOTAL": "3.05"
     },
     {
         "R#": "64",
@@ -1213,11 +1213,11 @@
         "STL": "1.3",
         "BLK": "0.1",
         "TO": "3.1",
-        "TOTAL": "3.01"
+        "TOTAL": "2.95"
     },
     {
         "R#": "65",
-        "ADP": "23.3",
+        "ADP": "23.9",
         "PLAYER": "Russell Westbrook",
         "POS": "PG",
         "Team": "LAL",
@@ -1232,11 +1232,11 @@
         "STL": "1.2",
         "BLK": "0.3",
         "TO": "3.9",
-        "TOTAL": "2.82"
+        "TOTAL": "2.77"
     },
     {
         "R#": "66",
-        "ADP": "41.0",
+        "ADP": "40.9",
         "PLAYER": "Ja Morant",
         "POS": "PG",
         "Team": "MEM",
@@ -1251,30 +1251,11 @@
         "STL": "1.0",
         "BLK": "0.3",
         "TO": "3.3",
-        "TOTAL": "2.81"
+        "TOTAL": "2.75"
     },
     {
         "R#": "67",
-        "ADP": "67.5",
-        "PLAYER": "Jerami Grant",
-        "POS": "SF,PF",
-        "Team": "DET",
-        "GP": "74",
-        "MPG": "32.4",
-        "FG%": "0.450  (6.4\/14.1)",
-        "FT%": "0.843  (5.2\/6.1)",
-        "3PM": "2.0",
-        "PTS": "19.9",
-        "TREB": "4.4",
-        "AST": "2.7",
-        "STL": "0.6",
-        "BLK": "1.1",
-        "TO": "1.9",
-        "TOTAL": "2.74"
-    },
-    {
-        "R#": "68",
-        "ADP": "79.7",
+        "ADP": "83.5",
         "PLAYER": "Caris LeVert",
         "POS": "SG,SF",
         "Team": "IND",
@@ -1289,7 +1270,26 @@
         "STL": "1.3",
         "BLK": "0.6",
         "TO": "2.1",
-        "TOTAL": "2.74"
+        "TOTAL": "2.68"
+    },
+    {
+        "R#": "68",
+        "ADP": "67.8",
+        "PLAYER": "Jerami Grant",
+        "POS": "SF,PF",
+        "Team": "DET",
+        "GP": "74",
+        "MPG": "32.4",
+        "FG%": "0.450  (6.4\/14.1)",
+        "FT%": "0.843  (5.2\/6.1)",
+        "3PM": "2.0",
+        "PTS": "19.9",
+        "TREB": "4.4",
+        "AST": "2.7",
+        "STL": "0.6",
+        "BLK": "1.1",
+        "TO": "1.9",
+        "TOTAL": "2.68"
     },
     {
         "R#": "69",
@@ -1308,11 +1308,11 @@
         "STL": "1.1",
         "BLK": "0.2",
         "TO": "2.8",
-        "TOTAL": "2.73"
+        "TOTAL": "2.66"
     },
     {
         "R#": "70",
-        "ADP": "87.0",
+        "ADP": "87.2",
         "PLAYER": "Kemba Walker",
         "POS": "PG",
         "Team": "NYK",
@@ -1327,11 +1327,11 @@
         "STL": "1.0",
         "BLK": "0.3",
         "TO": "1.9",
-        "TOTAL": "2.66"
+        "TOTAL": "2.60"
     },
     {
         "R#": "71",
-        "ADP": "69.6",
+        "ADP": "68.7",
         "PLAYER": "Isaiah Stewart",
         "POS": "PF,C",
         "Team": "DET",
@@ -1346,11 +1346,11 @@
         "STL": "0.8",
         "BLK": "1.6",
         "TO": "1.4",
-        "TOTAL": "2.65"
+        "TOTAL": "2.59"
     },
     {
         "R#": "72",
-        "ADP": "47.2",
+        "ADP": "46.5",
         "PLAYER": "Anthony Edwards",
         "POS": "SG,SF",
         "Team": "MIN",
@@ -1365,11 +1365,11 @@
         "STL": "1.2",
         "BLK": "0.5",
         "TO": "2.4",
-        "TOTAL": "2.63"
+        "TOTAL": "2.57"
     },
     {
         "R#": "73",
-        "ADP": "106.3",
+        "ADP": "108.5",
         "PLAYER": "Kawhi Leonard",
         "POS": "SG,SF",
         "Team": "LAC",
@@ -1384,11 +1384,11 @@
         "STL": "1.2",
         "BLK": "0.3",
         "TO": "1.7",
-        "TOTAL": "2.45"
+        "TOTAL": "2.39"
     },
     {
         "R#": "74",
-        "ADP": "38.3",
+        "ADP": "38.1",
         "PLAYER": "Christian Wood",
         "POS": "PF,C",
         "Team": "HOU",
@@ -1403,11 +1403,11 @@
         "STL": "0.8",
         "BLK": "1.1",
         "TO": "1.9",
-        "TOTAL": "2.34"
+        "TOTAL": "2.28"
     },
     {
         "R#": "75",
-        "ADP": "62.1",
+        "ADP": "61.8",
         "PLAYER": "Jarrett Allen",
         "POS": "C",
         "Team": "CLE",
@@ -1422,11 +1422,11 @@
         "STL": "0.5",
         "BLK": "1.5",
         "TO": "1.7",
-        "TOTAL": "2.23"
+        "TOTAL": "2.17"
     },
     {
         "R#": "76",
-        "ADP": "85.6",
+        "ADP": "85.8",
         "PLAYER": "PJ Washington",
         "POS": "PF,C",
         "Team": "CHA",
@@ -1441,11 +1441,11 @@
         "STL": "1.1",
         "BLK": "1.2",
         "TO": "2.0",
-        "TOTAL": "2.16"
+        "TOTAL": "2.10"
     },
     {
         "R#": "77",
-        "ADP": "79.8",
+        "ADP": "79.3",
         "PLAYER": "Robert Covington",
         "POS": "PF,C",
         "Team": "POR",
@@ -1460,11 +1460,11 @@
         "STL": "1.4",
         "BLK": "1.0",
         "TO": "0.9",
-        "TOTAL": "2.14"
+        "TOTAL": "2.07"
     },
     {
         "R#": "78",
-        "ADP": "56.1",
+        "ADP": "56.0",
         "PLAYER": "DeMar DeRozan",
         "POS": "SF,PF",
         "Team": "CHI",
@@ -1479,11 +1479,11 @@
         "STL": "0.8",
         "BLK": "0.2",
         "TO": "1.7",
-        "TOTAL": "2.12"
+        "TOTAL": "2.05"
     },
     {
         "R#": "79",
-        "ADP": "80.4",
+        "ADP": "80.1",
         "PLAYER": "Kevin Porter Jr.",
         "POS": "SG,SF",
         "Team": "HOU",
@@ -1498,11 +1498,11 @@
         "STL": "1.2",
         "BLK": "0.4",
         "TO": "3.3",
-        "TOTAL": "2.11"
+        "TOTAL": "2.05"
     },
     {
         "R#": "80",
-        "ADP": "75.2",
+        "ADP": "76.0",
         "PLAYER": "Chris Boucher",
         "POS": "PF,C",
         "Team": "TOR",
@@ -1517,11 +1517,11 @@
         "STL": "0.5",
         "BLK": "1.7",
         "TO": "0.7",
-        "TOTAL": "1.96"
+        "TOTAL": "1.89"
     },
     {
         "R#": "81",
-        "ADP": "66.0",
+        "ADP": "66.4",
         "PLAYER": "Ben Simmons",
         "POS": "PG",
         "Team": "PHI",
@@ -1536,11 +1536,11 @@
         "STL": "1.6",
         "BLK": "0.6",
         "TO": "3.0",
-        "TOTAL": "1.92"
+        "TOTAL": "1.86"
     },
     {
         "R#": "82",
-        "ADP": "89.6",
+        "ADP": "89.2",
         "PLAYER": "Mitchell Robinson",
         "POS": "C",
         "Team": "NYK",
@@ -1555,11 +1555,11 @@
         "STL": "1.1",
         "BLK": "1.7",
         "TO": "0.9",
-        "TOTAL": "1.91"
+        "TOTAL": "1.85"
     },
     {
         "R#": "83",
-        "ADP": "81.2",
+        "ADP": "81.6",
         "PLAYER": "Marcus Smart",
         "POS": "PG,SG",
         "Team": "BOS",
@@ -1574,11 +1574,11 @@
         "STL": "1.5",
         "BLK": "0.5",
         "TO": "1.9",
-        "TOTAL": "1.91"
+        "TOTAL": "1.85"
     },
     {
         "R#": "84",
-        "ADP": "107.5",
+        "ADP": "107.0",
         "PLAYER": "Nickeil Alexander-Walker",
         "POS": "SG,SF",
         "Team": "NOP",
@@ -1593,11 +1593,11 @@
         "STL": "1.4",
         "BLK": "0.7",
         "TO": "2.0",
-        "TOTAL": "1.85"
+        "TOTAL": "1.79"
     },
     {
         "R#": "85",
-        "ADP": "75.3",
+        "ADP": "73.8",
         "PLAYER": "D'Angelo Russell",
         "POS": "PG,SG",
         "Team": "MIN",
@@ -1612,11 +1612,11 @@
         "STL": "1.1",
         "BLK": "0.4",
         "TO": "2.8",
-        "TOTAL": "1.82"
+        "TOTAL": "1.76"
     },
     {
         "R#": "86",
-        "ADP": "120.5",
+        "ADP": "122.0",
         "PLAYER": "Jamal Murray",
         "POS": "PG,SG",
         "Team": "DEN",
@@ -1631,11 +1631,11 @@
         "STL": "1.0",
         "BLK": "0.2",
         "TO": "1.7",
-        "TOTAL": "1.79"
+        "TOTAL": "1.72"
     },
     {
         "R#": "87",
-        "ADP": "72.6",
+        "ADP": "72.9",
         "PLAYER": "Cade Cunningham",
         "POS": "PG,SG",
         "Team": "DET",
@@ -1650,11 +1650,11 @@
         "STL": "1.2",
         "BLK": "0.6",
         "TO": "3.5",
-        "TOTAL": "1.73"
+        "TOTAL": "1.67"
     },
     {
         "R#": "88",
-        "ADP": "103.0",
+        "ADP": "102.6",
         "PLAYER": "Evan Fournier",
         "POS": "SG,SF",
         "Team": "NYK",
@@ -1669,11 +1669,11 @@
         "STL": "1.1",
         "BLK": "0.5",
         "TO": "1.7",
-        "TOTAL": "1.71"
+        "TOTAL": "1.64"
     },
     {
         "R#": "89",
-        "ADP": "85.1",
+        "ADP": "84.4",
         "PLAYER": "Norman Powell",
         "POS": "SG,SF",
         "Team": "POR",
@@ -1688,11 +1688,11 @@
         "STL": "1.0",
         "BLK": "0.3",
         "TO": "1.7",
-        "TOTAL": "1.70"
+        "TOTAL": "1.63"
     },
     {
         "R#": "90",
-        "ADP": "77.5",
+        "ADP": "77.1",
         "PLAYER": "Buddy Hield",
         "POS": "SG,SF",
         "Team": "SAC",
@@ -1707,11 +1707,11 @@
         "STL": "0.9",
         "BLK": "0.4",
         "TO": "1.8",
-        "TOTAL": "1.67"
+        "TOTAL": "1.60"
     },
     {
         "R#": "91",
-        "ADP": "125.8",
+        "ADP": "125.7",
         "PLAYER": "T.J. McConnell",
         "POS": "PG,SG",
         "Team": "IND",
@@ -1726,7 +1726,7 @@
         "STL": "1.7",
         "BLK": "0.3",
         "TO": "1.8",
-        "TOTAL": "1.65"
+        "TOTAL": "1.58"
     },
     {
         "R#": "92",
@@ -1745,11 +1745,11 @@
         "STL": "0.6",
         "BLK": "1.5",
         "TO": "0.9",
-        "TOTAL": "1.56"
+        "TOTAL": "1.49"
     },
     {
         "R#": "93",
-        "ADP": "114.9",
+        "ADP": "114.7",
         "PLAYER": "Nerlens Noel",
         "POS": "PF,C",
         "Team": "NYK",
@@ -1764,11 +1764,11 @@
         "STL": "1.0",
         "BLK": "2.0",
         "TO": "1.1",
-        "TOTAL": "1.50"
+        "TOTAL": "1.43"
     },
     {
         "R#": "94",
-        "ADP": "98.4",
+        "ADP": "98.3",
         "PLAYER": "Kelly Olynyk",
         "POS": "PF,C",
         "Team": "DET",
@@ -1783,11 +1783,11 @@
         "STL": "1.0",
         "BLK": "0.6",
         "TO": "1.7",
-        "TOTAL": "1.46"
+        "TOTAL": "1.40"
     },
     {
         "R#": "95",
-        "ADP": "102.6",
+        "ADP": "102.8",
         "PLAYER": "Harrison Barnes",
         "POS": "SF,PF",
         "Team": "SAC",
@@ -1802,11 +1802,11 @@
         "STL": "0.7",
         "BLK": "0.2",
         "TO": "1.6",
-        "TOTAL": "1.45"
+        "TOTAL": "1.39"
     },
     {
         "R#": "96",
-        "ADP": "92.9",
+        "ADP": "93.8",
         "PLAYER": "Spencer Dinwiddie",
         "POS": "PG,SG",
         "Team": "WAS",
@@ -1821,11 +1821,11 @@
         "STL": "0.8",
         "BLK": "0.3",
         "TO": "3.0",
-        "TOTAL": "1.23"
+        "TOTAL": "1.17"
     },
     {
         "R#": "97",
-        "ADP": "92.5",
+        "ADP": "93.0",
         "PLAYER": "Miles Bridges",
         "POS": "SF,PF",
         "Team": "CHA",
@@ -1840,30 +1840,11 @@
         "STL": "0.6",
         "BLK": "0.8",
         "TO": "1.6",
-        "TOTAL": "1.21"
+        "TOTAL": "1.14"
     },
     {
         "R#": "98",
-        "ADP": "128.7",
-        "PLAYER": "Derrick Favors",
-        "POS": "C",
-        "Team": "OKL",
-        "GP": "64",
-        "MPG": "25.2",
-        "FG%": "0.611  (3.8\/6.2)",
-        "FT%": "0.731  (1.4\/1.9)",
-        "3PM": "0.0",
-        "PTS": "9.0",
-        "TREB": "8.9",
-        "AST": "1.0",
-        "STL": "0.8",
-        "BLK": "1.1",
-        "TO": "0.8",
-        "TOTAL": "1.20"
-    },
-    {
-        "R#": "99",
-        "ADP": "130.5",
+        "ADP": "130.4",
         "PLAYER": "Reggie Jackson",
         "POS": "PG,SG",
         "Team": "LAC",
@@ -1878,11 +1859,11 @@
         "STL": "0.9",
         "BLK": "0.1",
         "TO": "1.6",
-        "TOTAL": "1.13"
+        "TOTAL": "1.07"
     },
     {
-        "R#": "100",
-        "ADP": "117.1",
+        "R#": "99",
+        "ADP": "117.4",
         "PLAYER": "Saddiq Bey",
         "POS": "SF",
         "Team": "DET",
@@ -1897,29 +1878,10 @@
         "STL": "0.9",
         "BLK": "0.3",
         "TO": "1.1",
-        "TOTAL": "1.08"
+        "TOTAL": "1.02"
     },
     {
-        "R#": "101",
-        "ADP": "106.9",
-        "PLAYER": "Jalen Suggs",
-        "POS": "PG,SG",
-        "Team": "ORL",
-        "GP": "73",
-        "MPG": "31.2",
-        "FG%": "0.441  (6.0\/13.6)",
-        "FT%": "0.753  (1.9\/2.5)",
-        "3PM": "1.4",
-        "PTS": "15.3",
-        "TREB": "4.3",
-        "AST": "5.4",
-        "STL": "1.4",
-        "BLK": "0.3",
-        "TO": "2.9",
-        "TOTAL": "1.03"
-    },
-    {
-        "R#": "102",
+        "R#": "100",
         "ADP": null,
         "PLAYER": "Dwight Powell",
         "POS": "PF,C",
@@ -1935,11 +1897,11 @@
         "STL": "0.9",
         "BLK": "0.8",
         "TO": "1.1",
-        "TOTAL": "1.02"
+        "TOTAL": "0.95"
     },
     {
-        "R#": "103",
-        "ADP": "114.3",
+        "R#": "101",
+        "ADP": "115.4",
         "PLAYER": "Jonathan Isaac",
         "POS": "SF,PF",
         "Team": "ORL",
@@ -1954,11 +1916,11 @@
         "STL": "1.2",
         "BLK": "1.6",
         "TO": "1.1",
-        "TOTAL": "0.98"
+        "TOTAL": "0.91"
     },
     {
-        "R#": "104",
-        "ADP": "123.5",
+        "R#": "102",
+        "ADP": "123.2",
         "PLAYER": "De'Andre Hunter",
         "POS": "SF,PF",
         "Team": "ATL",
@@ -1973,11 +1935,11 @@
         "STL": "0.8",
         "BLK": "0.5",
         "TO": "1.3",
-        "TOTAL": "0.94"
+        "TOTAL": "0.87"
     },
     {
-        "R#": "105",
-        "ADP": "88.3",
+        "R#": "103",
+        "ADP": "86.8",
         "PLAYER": "Andrew Wiggins",
         "POS": "SG,SF",
         "Team": "GSW",
@@ -1992,11 +1954,11 @@
         "STL": "0.9",
         "BLK": "1.0",
         "TO": "1.7",
-        "TOTAL": "0.90"
+        "TOTAL": "0.84"
     },
     {
-        "R#": "106",
-        "ADP": "124.3",
+        "R#": "104",
+        "ADP": "123.8",
         "PLAYER": "Mason Plumlee",
         "POS": "PF,C",
         "Team": "CHA",
@@ -2011,11 +1973,11 @@
         "STL": "0.8",
         "BLK": "0.9",
         "TO": "1.8",
-        "TOTAL": "0.89"
+        "TOTAL": "0.83"
     },
     {
-        "R#": "107",
-        "ADP": "114.4",
+        "R#": "105",
+        "ADP": "110.8",
         "PLAYER": "Jordan Poole",
         "POS": "PG,SG",
         "Team": "GSW",
@@ -2030,11 +1992,11 @@
         "STL": "0.7",
         "BLK": "0.3",
         "TO": "1.4",
-        "TOTAL": "0.82"
+        "TOTAL": "0.75"
     },
     {
-        "R#": "108",
-        "ADP": "103.9",
+        "R#": "106",
+        "ADP": "104.3",
         "PLAYER": "Keldon Johnson",
         "POS": "SF,PF",
         "Team": "SAS",
@@ -2049,10 +2011,10 @@
         "STL": "1.0",
         "BLK": "0.4",
         "TO": "1.2",
-        "TOTAL": "0.81"
+        "TOTAL": "0.75"
     },
     {
-        "R#": "109",
+        "R#": "107",
         "ADP": "88.1",
         "PLAYER": "Evan Mobley",
         "POS": "C",
@@ -2068,11 +2030,11 @@
         "STL": "0.7",
         "BLK": "1.7",
         "TO": "2.0",
-        "TOTAL": "0.81"
+        "TOTAL": "0.74"
     },
     {
-        "R#": "110",
-        "ADP": "137.2",
+        "R#": "108",
+        "ADP": "137.6",
         "PLAYER": "Bobby Portis",
         "POS": "PF,C",
         "Team": "MIL",
@@ -2087,11 +2049,11 @@
         "STL": "0.9",
         "BLK": "0.4",
         "TO": "0.9",
-        "TOTAL": "0.80"
+        "TOTAL": "0.73"
     },
     {
-        "R#": "111",
-        "ADP": "100.0",
+        "R#": "109",
+        "ADP": "100.6",
         "PLAYER": "Jordan Clarkson",
         "POS": "PG,SG",
         "Team": "UTA",
@@ -2106,11 +2068,11 @@
         "STL": "0.9",
         "BLK": "0.1",
         "TO": "1.7",
-        "TOTAL": "0.78"
+        "TOTAL": "0.71"
     },
     {
-        "R#": "112",
-        "ADP": "132.1",
+        "R#": "110",
+        "ADP": "132.4",
         "PLAYER": "Joe Ingles",
         "POS": "SG,SF",
         "Team": "UTA",
@@ -2125,11 +2087,11 @@
         "STL": "0.7",
         "BLK": "0.2",
         "TO": "1.7",
-        "TOTAL": "0.76"
+        "TOTAL": "0.69"
     },
     {
-        "R#": "113",
-        "ADP": "104.7",
+        "R#": "111",
+        "ADP": "105.0",
         "PLAYER": "Kyle Anderson",
         "POS": "SF,PF",
         "Team": "MEM",
@@ -2144,30 +2106,11 @@
         "STL": "1.1",
         "BLK": "0.7",
         "TO": "1.1",
-        "TOTAL": "0.64"
+        "TOTAL": "0.58"
     },
     {
-        "R#": "114",
-        "ADP": "133.0",
-        "PLAYER": "Joe Harris",
-        "POS": "SG,SF",
-        "Team": "BRO",
-        "GP": "78",
-        "MPG": "31.2",
-        "FG%": "0.505  (5.2\/10.3)",
-        "FT%": "0.778  (0.7\/0.9)",
-        "3PM": "3.1",
-        "PTS": "14.3",
-        "TREB": "3.6",
-        "AST": "1.9",
-        "STL": "0.7",
-        "BLK": "0.2",
-        "TO": "0.9",
-        "TOTAL": "0.63"
-    },
-    {
-        "R#": "115",
-        "ADP": "138.7",
+        "R#": "112",
+        "ADP": "139.3",
         "PLAYER": "Chuma Okeke",
         "POS": "PF",
         "Team": "ORL",
@@ -2182,11 +2125,49 @@
         "STL": "1.4",
         "BLK": "0.6",
         "TO": "1.0",
-        "TOTAL": "0.63"
+        "TOTAL": "0.57"
     },
     {
-        "R#": "116",
-        "ADP": "105.4",
+        "R#": "113",
+        "ADP": "132.2",
+        "PLAYER": "Joe Harris",
+        "POS": "SG,SF",
+        "Team": "BRO",
+        "GP": "78",
+        "MPG": "31.2",
+        "FG%": "0.505  (5.2\/10.3)",
+        "FT%": "0.778  (0.7\/0.9)",
+        "3PM": "3.1",
+        "PTS": "14.3",
+        "TREB": "3.6",
+        "AST": "1.9",
+        "STL": "0.7",
+        "BLK": "0.2",
+        "TO": "0.9",
+        "TOTAL": "0.57"
+    },
+    {
+        "R#": "114",
+        "ADP": "128.9",
+        "PLAYER": "Derrick Favors",
+        "POS": "C",
+        "Team": "OKL",
+        "GP": "60",
+        "MPG": "24.2",
+        "FG%": "0.611  (3.6\/5.9)",
+        "FT%": "0.728  (1.3\/1.8)",
+        "3PM": "0.0",
+        "PTS": "8.6",
+        "TREB": "8.4",
+        "AST": "0.9",
+        "STL": "0.8",
+        "BLK": "1.1",
+        "TO": "0.8",
+        "TOTAL": "0.56"
+    },
+    {
+        "R#": "115",
+        "ADP": "106.5",
         "PLAYER": "Klay Thompson",
         "POS": "SG,SF",
         "Team": "GSW",
@@ -2201,11 +2182,30 @@
         "STL": "0.8",
         "BLK": "0.5",
         "TO": "1.1",
-        "TOTAL": "0.58"
+        "TOTAL": "0.51"
+    },
+    {
+        "R#": "116",
+        "ADP": "108.1",
+        "PLAYER": "Jalen Suggs",
+        "POS": "PG,SG",
+        "Team": "ORL",
+        "GP": "73",
+        "MPG": "31.2",
+        "FG%": "0.431  (5.8\/13.5)",
+        "FT%": "0.753  (1.9\/2.5)",
+        "3PM": "1.4",
+        "PTS": "14.9",
+        "TREB": "4.3",
+        "AST": "5.4",
+        "STL": "1.4",
+        "BLK": "0.3",
+        "TO": "2.9",
+        "TOTAL": "0.48"
     },
     {
         "R#": "117",
-        "ADP": "105.9",
+        "ADP": "103.4",
         "PLAYER": "Daniel Gafford",
         "POS": "C",
         "Team": "WAS",
@@ -2220,11 +2220,11 @@
         "STL": "0.7",
         "BLK": "1.8",
         "TO": "1.1",
-        "TOTAL": "0.50"
+        "TOTAL": "0.44"
     },
     {
         "R#": "118",
-        "ADP": "143.4",
+        "ADP": "140.9",
         "PLAYER": "De'Anthony Melton",
         "POS": "PG,SG",
         "Team": "MEM",
@@ -2239,7 +2239,7 @@
         "STL": "1.2",
         "BLK": "0.7",
         "TO": "1.5",
-        "TOTAL": "0.29"
+        "TOTAL": "0.23"
     },
     {
         "R#": "119",
@@ -2258,11 +2258,11 @@
         "STL": "1.2",
         "BLK": "0.7",
         "TO": "1.0",
-        "TOTAL": "0.19"
+        "TOTAL": "0.13"
     },
     {
         "R#": "120",
-        "ADP": "114.8",
+        "ADP": "115.0",
         "PLAYER": "Ivica Zubac",
         "POS": "C",
         "Team": "LAC",
@@ -2277,11 +2277,11 @@
         "STL": "0.3",
         "BLK": "1.0",
         "TO": "1.2",
-        "TOTAL": "0.19"
+        "TOTAL": "0.12"
     },
     {
         "R#": "121",
-        "ADP": "143.7",
+        "ADP": "144.1",
         "PLAYER": "Khem Birch",
         "POS": "PF,C",
         "Team": "TOR",
@@ -2296,7 +2296,7 @@
         "STL": "0.9",
         "BLK": "1.2",
         "TO": "0.9",
-        "TOTAL": "0.10"
+        "TOTAL": "0.03"
     },
     {
         "R#": "122",
@@ -2315,11 +2315,11 @@
         "STL": "1.2",
         "BLK": "0.5",
         "TO": "1.4",
-        "TOTAL": "0.09"
+        "TOTAL": "0.03"
     },
     {
         "R#": "123",
-        "ADP": "103.5",
+        "ADP": "103.4",
         "PLAYER": "Wendell Carter Jr.",
         "POS": "C",
         "Team": "ORL",
@@ -2334,11 +2334,11 @@
         "STL": "0.7",
         "BLK": "0.9",
         "TO": "1.5",
-        "TOTAL": "0.07"
+        "TOTAL": "0.00"
     },
     {
         "R#": "124",
-        "ADP": "124.2",
+        "ADP": "121.1",
         "PLAYER": "Mo Bamba",
         "POS": "C",
         "Team": "ORL",
@@ -2353,11 +2353,11 @@
         "STL": "0.4",
         "BLK": "1.8",
         "TO": "1.0",
-        "TOTAL": "0.00"
+        "TOTAL": "-0.07"
     },
     {
         "R#": "125",
-        "ADP": "126.5",
+        "ADP": "127.6",
         "PLAYER": "Dennis Schroder",
         "POS": "PG",
         "Team": "BOS",
@@ -2372,11 +2372,11 @@
         "STL": "1.0",
         "BLK": "0.2",
         "TO": "2.5",
-        "TOTAL": "-0.06"
+        "TOTAL": "-0.12"
     },
     {
         "R#": "126",
-        "ADP": "124.6",
+        "ADP": "124.5",
         "PLAYER": "Jaden McDaniels",
         "POS": "PF",
         "Team": "MIN",
@@ -2391,11 +2391,11 @@
         "STL": "0.8",
         "BLK": "1.3",
         "TO": "0.9",
-        "TOTAL": "-0.11"
+        "TOTAL": "-0.18"
     },
     {
         "R#": "127",
-        "ADP": "105.9",
+        "ADP": "105.1",
         "PLAYER": "Al Horford",
         "POS": "PF,C",
         "Team": "BOS",
@@ -2410,11 +2410,11 @@
         "STL": "0.7",
         "BLK": "0.7",
         "TO": "0.8",
-        "TOTAL": "-0.12"
+        "TOTAL": "-0.18"
     },
     {
         "R#": "128",
-        "ADP": "127.4",
+        "ADP": "127.7",
         "PLAYER": "Larry Nance Jr.",
         "POS": "PF,C",
         "Team": "POR",
@@ -2429,11 +2429,11 @@
         "STL": "1.5",
         "BLK": "0.4",
         "TO": "1.4",
-        "TOTAL": "-0.13"
+        "TOTAL": "-0.19"
     },
     {
         "R#": "129",
-        "ADP": "142.5",
+        "ADP": "139.2",
         "PLAYER": "Matisse Thybulle",
         "POS": "SG,SF",
         "Team": "PHI",
@@ -2448,11 +2448,11 @@
         "STL": "1.7",
         "BLK": "1.3",
         "TO": "0.6",
-        "TOTAL": "-0.15"
+        "TOTAL": "-0.21"
     },
     {
         "R#": "130",
-        "ADP": "88.7",
+        "ADP": "88.4",
         "PLAYER": "Jalen Green",
         "POS": "SG",
         "Team": "HOU",
@@ -2467,11 +2467,11 @@
         "STL": "1.2",
         "BLK": "0.2",
         "TO": "2.7",
-        "TOTAL": "-0.18"
+        "TOTAL": "-0.24"
     },
     {
         "R#": "131",
-        "ADP": "142.1",
+        "ADP": "142.5",
         "PLAYER": "Thomas Bryant",
         "POS": "C",
         "Team": "WAS",
@@ -2486,11 +2486,11 @@
         "STL": "0.4",
         "BLK": "0.7",
         "TO": "1.0",
-        "TOTAL": "-0.19"
+        "TOTAL": "-0.26"
     },
     {
         "R#": "132",
-        "ADP": "143.4",
+        "ADP": "143.7",
         "PLAYER": "Will Barton",
         "POS": "SG,SF",
         "Team": "DEN",
@@ -2505,11 +2505,11 @@
         "STL": "0.9",
         "BLK": "0.4",
         "TO": "1.8",
-        "TOTAL": "-0.21"
+        "TOTAL": "-0.27"
     },
     {
         "R#": "133",
-        "ADP": "92.9",
+        "ADP": "93.3",
         "PLAYER": "RJ Barrett",
         "POS": "SG,SF",
         "Team": "NYK",
@@ -2524,11 +2524,11 @@
         "STL": "0.7",
         "BLK": "0.3",
         "TO": "2.0",
-        "TOTAL": "-0.23"
+        "TOTAL": "-0.29"
     },
     {
         "R#": "134",
-        "ADP": "123.9",
+        "ADP": "124.1",
         "PLAYER": "Montrezl Harrell",
         "POS": "PF,C",
         "Team": "WAS",
@@ -2543,11 +2543,11 @@
         "STL": "0.8",
         "BLK": "0.8",
         "TO": "1.2",
-        "TOTAL": "-0.28"
+        "TOTAL": "-0.35"
     },
     {
         "R#": "135",
-        "ADP": "125.0",
+        "ADP": "125.7",
         "PLAYER": "Thaddeus Young",
         "POS": "PF,C",
         "Team": "SAS",
@@ -2562,11 +2562,11 @@
         "STL": "1.0",
         "BLK": "0.6",
         "TO": "1.8",
-        "TOTAL": "-0.31"
+        "TOTAL": "-0.38"
     },
     {
         "R#": "136",
-        "ADP": "144.7",
+        "ADP": "144.5",
         "PLAYER": "Aleksej Pokusevski",
         "POS": "SF",
         "Team": "OKL",
@@ -2581,11 +2581,11 @@
         "STL": "0.5",
         "BLK": "1.1",
         "TO": "2.6",
-        "TOTAL": "-0.32"
+        "TOTAL": "-0.39"
     },
     {
         "R#": "137",
-        "ADP": "133.1",
+        "ADP": "134.0",
         "PLAYER": "Dillon Brooks",
         "POS": "SG,SF",
         "Team": "MEM",
@@ -2600,11 +2600,11 @@
         "STL": "1.2",
         "BLK": "0.4",
         "TO": "1.8",
-        "TOTAL": "-0.38"
+        "TOTAL": "-0.45"
     },
     {
         "R#": "138",
-        "ADP": "125.3",
+        "ADP": "124.9",
         "PLAYER": "Kyle Kuzma",
         "POS": "SF,PF",
         "Team": "WAS",
@@ -2619,7 +2619,7 @@
         "STL": "0.6",
         "BLK": "0.6",
         "TO": "1.7",
-        "TOTAL": "-0.44"
+        "TOTAL": "-0.51"
     },
     {
         "R#": "139",
@@ -2638,11 +2638,11 @@
         "STL": "0.9",
         "BLK": "0.4",
         "TO": "1.5",
-        "TOTAL": "-0.45"
+        "TOTAL": "-0.51"
     },
     {
         "R#": "140",
-        "ADP": "146.7",
+        "ADP": "146.4",
         "PLAYER": "Desmond Bane",
         "POS": "PG,SG",
         "Team": "MEM",
@@ -2657,7 +2657,7 @@
         "STL": "0.8",
         "BLK": "0.3",
         "TO": "1.2",
-        "TOTAL": "-0.46"
+        "TOTAL": "-0.52"
     },
     {
         "R#": "141",
@@ -2676,11 +2676,11 @@
         "STL": "1.0",
         "BLK": "0.5",
         "TO": "1.6",
-        "TOTAL": "-0.51"
+        "TOTAL": "-0.57"
     },
     {
         "R#": "142",
-        "ADP": "145.9",
+        "ADP": "145.6",
         "PLAYER": "Isaiah Roby",
         "POS": "C",
         "Team": "OKL",
@@ -2695,10 +2695,29 @@
         "STL": "1.0",
         "BLK": "0.7",
         "TO": "2.2",
-        "TOTAL": "-0.53"
+        "TOTAL": "-0.60"
     },
     {
         "R#": "143",
+        "ADP": "132.7",
+        "PLAYER": "Josh Giddey",
+        "POS": "PG,SG",
+        "Team": "OKL",
+        "GP": "70",
+        "MPG": "29.8",
+        "FG%": "0.413  (4.2\/10.2)",
+        "FT%": "0.691  (0.9\/1.4)",
+        "3PM": "1.1",
+        "PTS": "10.5",
+        "TREB": "6.8",
+        "AST": "4.3",
+        "STL": "1.2",
+        "BLK": "0.5",
+        "TO": "3.0",
+        "TOTAL": "-0.65"
+    },
+    {
+        "R#": "144",
         "ADP": "139.5",
         "PLAYER": "Facundo Campazzo",
         "POS": "PG",
@@ -2714,30 +2733,11 @@
         "STL": "1.4",
         "BLK": "0.2",
         "TO": "1.3",
-        "TOTAL": "-0.59"
-    },
-    {
-        "R#": "144",
-        "ADP": "138.3",
-        "PLAYER": "Josh Giddey",
-        "POS": "PG,SG",
-        "Team": "OKL",
-        "GP": "70",
-        "MPG": "29.8",
-        "FG%": "0.413  (4.2\/10.2)",
-        "FT%": "0.691  (0.9\/1.4)",
-        "3PM": "1.1",
-        "PTS": "10.5",
-        "TREB": "6.8",
-        "AST": "4.3",
-        "STL": "1.2",
-        "BLK": "0.5",
-        "TO": "3.0",
-        "TOTAL": "-0.59"
+        "TOTAL": "-0.65"
     },
     {
         "R#": "145",
-        "ADP": "144.0",
+        "ADP": "144.1",
         "PLAYER": "Royce O'Neale",
         "POS": "SF,PF",
         "Team": "UTA",
@@ -2752,11 +2752,11 @@
         "STL": "0.8",
         "BLK": "0.5",
         "TO": "1.2",
-        "TOTAL": "-0.59"
+        "TOTAL": "-0.66"
     },
     {
         "R#": "146",
-        "ADP": "108.1",
+        "ADP": "107.6",
         "PLAYER": "Bojan Bogdanovic",
         "POS": "SF,PF",
         "Team": "UTA",
@@ -2771,11 +2771,11 @@
         "STL": "0.6",
         "BLK": "0.1",
         "TO": "1.8",
-        "TOTAL": "-0.59"
+        "TOTAL": "-0.66"
     },
     {
         "R#": "147",
-        "ADP": "141.5",
+        "ADP": "141.6",
         "PLAYER": "Victor Oladipo",
         "POS": "SG,SF",
         "Team": "MIA",
@@ -2790,11 +2790,11 @@
         "STL": "1.1",
         "BLK": "0.3",
         "TO": "2.0",
-        "TOTAL": "-0.61"
+        "TOTAL": "-0.67"
     },
     {
         "R#": "148",
-        "ADP": "116.3",
+        "ADP": "116.7",
         "PLAYER": "Duncan Robinson",
         "POS": "SG,SF",
         "Team": "MIA",
@@ -2809,11 +2809,11 @@
         "STL": "0.6",
         "BLK": "0.3",
         "TO": "1.1",
-        "TOTAL": "-0.65"
+        "TOTAL": "-0.72"
     },
     {
         "R#": "149",
-        "ADP": "139.5",
+        "ADP": "139.4",
         "PLAYER": "Danilo Gallinari",
         "POS": "SF,PF",
         "Team": "ATL",
@@ -2828,11 +2828,11 @@
         "STL": "0.6",
         "BLK": "0.2",
         "TO": "0.8",
-        "TOTAL": "-0.66"
+        "TOTAL": "-0.72"
     },
     {
         "R#": "150",
-        "ADP": "142.6",
+        "ADP": "142.7",
         "PLAYER": "Brandon Clarke",
         "POS": "SF,PF",
         "Team": "MEM",
@@ -2847,30 +2847,11 @@
         "STL": "1.0",
         "BLK": "0.9",
         "TO": "0.6",
-        "TOTAL": "-0.67"
+        "TOTAL": "-0.74"
     },
     {
         "R#": "151",
-        "ADP": "137.7",
-        "PLAYER": "Serge Ibaka",
-        "POS": "PF,C",
-        "Team": "LAC",
-        "GP": "64",
-        "MPG": "22.0",
-        "FG%": "0.505  (4.2\/8.4)",
-        "FT%": "0.844  (1.0\/1.2)",
-        "3PM": "0.9",
-        "PTS": "10.4",
-        "TREB": "6.3",
-        "AST": "1.7",
-        "STL": "0.2",
-        "BLK": "1.0",
-        "TO": "1.0",
-        "TOTAL": "-0.67"
-    },
-    {
-        "R#": "152",
-        "ADP": "124.6",
+        "ADP": "124.4",
         "PLAYER": "Tim Hardaway Jr.",
         "POS": "SG,SF",
         "Team": "DAL",
@@ -2885,11 +2866,30 @@
         "STL": "0.4",
         "BLK": "0.2",
         "TO": "1.0",
-        "TOTAL": "-0.68"
+        "TOTAL": "-0.74"
+    },
+    {
+        "R#": "152",
+        "ADP": "137.3",
+        "PLAYER": "Serge Ibaka",
+        "POS": "PF,C",
+        "Team": "LAC",
+        "GP": "64",
+        "MPG": "22.0",
+        "FG%": "0.505  (4.2\/8.4)",
+        "FT%": "0.844  (1.0\/1.2)",
+        "3PM": "0.9",
+        "PTS": "10.4",
+        "TREB": "6.3",
+        "AST": "1.7",
+        "STL": "0.2",
+        "BLK": "1.0",
+        "TO": "1.0",
+        "TOTAL": "-0.74"
     },
     {
         "R#": "153",
-        "ADP": "138.3",
+        "ADP": "136.2",
         "PLAYER": "Alperen Sengun",
         "POS": "C",
         "Team": "HOU",
@@ -2904,11 +2904,11 @@
         "STL": "0.6",
         "BLK": "0.9",
         "TO": "1.9",
-        "TOTAL": "-0.69"
+        "TOTAL": "-0.76"
     },
     {
         "R#": "154",
-        "ADP": "110.7",
+        "ADP": "111.9",
         "PLAYER": "Lauri Markkanen",
         "POS": "PF,C",
         "Team": "CLE",
@@ -2923,7 +2923,7 @@
         "STL": "0.5",
         "BLK": "0.3",
         "TO": "1.0",
-        "TOTAL": "-0.77"
+        "TOTAL": "-0.84"
     },
     {
         "R#": "155",
@@ -2942,11 +2942,11 @@
         "STL": "0.6",
         "BLK": "0.3",
         "TO": "0.9",
-        "TOTAL": "-0.77"
+        "TOTAL": "-0.84"
     },
     {
         "R#": "156",
-        "ADP": "99.1",
+        "ADP": "99.7",
         "PLAYER": "Devonte' Graham",
         "POS": "PG,SG",
         "Team": "NOP",
@@ -2961,11 +2961,11 @@
         "STL": "0.8",
         "BLK": "0.1",
         "TO": "1.4",
-        "TOTAL": "-0.79"
+        "TOTAL": "-0.85"
     },
     {
         "R#": "157",
-        "ADP": "138.2",
+        "ADP": "138.9",
         "PLAYER": "Cameron Payne",
         "POS": "PG,SG",
         "Team": "PHX",
@@ -2980,15 +2980,15 @@
         "STL": "0.7",
         "BLK": "0.4",
         "TO": "1.2",
-        "TOTAL": "-0.83"
+        "TOTAL": "-0.90"
     },
     {
         "R#": "158",
-        "ADP": "146.3",
+        "ADP": "146.4",
         "PLAYER": "Donte DiVincenzo",
         "POS": "PG,SG",
         "Team": "MIL",
-        "GP": "60",
+        "GP": "58",
         "MPG": "26.9",
         "FG%": "0.421  (3.7\/8.8)",
         "FT%": "0.729  (0.8\/1.1)",
@@ -2999,11 +2999,11 @@
         "STL": "1.1",
         "BLK": "0.2",
         "TO": "1.4",
-        "TOTAL": "-0.84"
+        "TOTAL": "-0.90"
     },
     {
         "R#": "159",
-        "ADP": "116.9",
+        "ADP": "115.0",
         "PLAYER": "Tyler Herro",
         "POS": "PG",
         "Team": "MIA",
@@ -3018,11 +3018,11 @@
         "STL": "0.6",
         "BLK": "0.3",
         "TO": "1.8",
-        "TOTAL": "-0.86"
+        "TOTAL": "-0.92"
     },
     {
         "R#": "160",
-        "ADP": "133.1",
+        "ADP": "134.0",
         "PLAYER": "T.J. Warren",
         "POS": "SF,PF",
         "Team": "IND",
@@ -3037,7 +3037,7 @@
         "STL": "0.5",
         "BLK": "0.4",
         "TO": "1.1",
-        "TOTAL": "-0.86"
+        "TOTAL": "-0.93"
     },
     {
         "R#": "161",
@@ -3056,11 +3056,11 @@
         "STL": "0.8",
         "BLK": "0.4",
         "TO": "0.8",
-        "TOTAL": "-0.92"
+        "TOTAL": "-0.99"
     },
     {
         "R#": "162",
-        "ADP": "139.9",
+        "ADP": "140.0",
         "PLAYER": "Marcus Morris Sr.",
         "POS": "PF,C",
         "Team": "LAC",
@@ -3075,7 +3075,7 @@
         "STL": "0.6",
         "BLK": "0.3",
         "TO": "1.0",
-        "TOTAL": "-0.93"
+        "TOTAL": "-1.00"
     },
     {
         "R#": "163",
@@ -3094,11 +3094,11 @@
         "STL": "0.8",
         "BLK": "0.1",
         "TO": "1.1",
-        "TOTAL": "-0.98"
+        "TOTAL": "-1.05"
     },
     {
         "R#": "164",
-        "ADP": "142.3",
+        "ADP": "142.7",
         "PLAYER": "Tyrese Maxey",
         "POS": "PG,SG",
         "Team": "PHI",
@@ -3113,11 +3113,11 @@
         "STL": "0.7",
         "BLK": "0.3",
         "TO": "1.2",
-        "TOTAL": "-1.00"
+        "TOTAL": "-1.07"
     },
     {
         "R#": "165",
-        "ADP": "143.4",
+        "ADP": "143.5",
         "PLAYER": "Markelle Fultz",
         "POS": "PG,SG",
         "Team": "ORL",
@@ -3132,11 +3132,11 @@
         "STL": "0.9",
         "BLK": "0.3",
         "TO": "2.3",
-        "TOTAL": "-1.07"
+        "TOTAL": "-1.14"
     },
     {
         "R#": "166",
-        "ADP": "135.2",
+        "ADP": "136.3",
         "PLAYER": "LaMarcus Aldridge",
         "POS": "PF,C",
         "Team": "BRO",
@@ -3151,11 +3151,11 @@
         "STL": "0.4",
         "BLK": "1.0",
         "TO": "0.9",
-        "TOTAL": "-1.10"
+        "TOTAL": "-1.17"
     },
     {
         "R#": "167",
-        "ADP": "143.1",
+        "ADP": "143.3",
         "PLAYER": "Daniel Theis",
         "POS": "PF,C",
         "Team": "HOU",
@@ -3170,11 +3170,11 @@
         "STL": "0.6",
         "BLK": "0.9",
         "TO": "1.0",
-        "TOTAL": "-1.13"
+        "TOTAL": "-1.20"
     },
     {
         "R#": "168",
-        "ADP": "133.7",
+        "ADP": "134.5",
         "PLAYER": "Malik Beasley",
         "POS": "PG,SG",
         "Team": "MIN",
@@ -3189,11 +3189,11 @@
         "STL": "0.6",
         "BLK": "0.2",
         "TO": "1.3",
-        "TOTAL": "-1.18"
+        "TOTAL": "-1.25"
     },
     {
         "R#": "169",
-        "ADP": "138.9",
+        "ADP": "138.8",
         "PLAYER": "Ricky Rubio",
         "POS": "PG",
         "Team": "CLE",
@@ -3208,11 +3208,11 @@
         "STL": "1.3",
         "BLK": "0.1",
         "TO": "1.4",
-        "TOTAL": "-1.20"
+        "TOTAL": "-1.27"
     },
     {
         "R#": "170",
-        "ADP": "139.6",
+        "ADP": "139.8",
         "PLAYER": "Nicolas Batum",
         "POS": "SF,PF",
         "Team": "LAC",
@@ -3227,7 +3227,7 @@
         "STL": "0.9",
         "BLK": "0.6",
         "TO": "0.7",
-        "TOTAL": "-1.24"
+        "TOTAL": "-1.30"
     },
     {
         "R#": "171",
@@ -3246,11 +3246,11 @@
         "STL": "0.9",
         "BLK": "0.7",
         "TO": "0.6",
-        "TOTAL": "-1.29"
+        "TOTAL": "-1.36"
     },
     {
         "R#": "172",
-        "ADP": "138.6",
+        "ADP": "138.8",
         "PLAYER": "Josh Hart",
         "POS": "SG,SF",
         "Team": "NOP",
@@ -3265,11 +3265,11 @@
         "STL": "0.8",
         "BLK": "0.3",
         "TO": "1.0",
-        "TOTAL": "-1.34"
+        "TOTAL": "-1.40"
     },
     {
         "R#": "173",
-        "ADP": "136.4",
+        "ADP": "136.6",
         "PLAYER": "Jae Crowder",
         "POS": "SF,PF",
         "Team": "PHX",
@@ -3284,11 +3284,11 @@
         "STL": "0.8",
         "BLK": "0.4",
         "TO": "0.9",
-        "TOTAL": "-1.40"
+        "TOTAL": "-1.47"
     },
     {
         "R#": "174",
-        "ADP": "129.2",
+        "ADP": "129.5",
         "PLAYER": "Patrick Williams",
         "POS": "SF,PF",
         "Team": "CHI",
@@ -3303,11 +3303,11 @@
         "STL": "1.0",
         "BLK": "0.6",
         "TO": "1.5",
-        "TOTAL": "-1.43"
+        "TOTAL": "-1.49"
     },
     {
         "R#": "175",
-        "ADP": "143.1",
+        "ADP": null,
         "PLAYER": "Trey Murphy III",
         "POS": "SG,SF",
         "Team": "NOP",
@@ -3322,11 +3322,11 @@
         "STL": "0.9",
         "BLK": "0.5",
         "TO": "1.0",
-        "TOTAL": "-1.43"
+        "TOTAL": "-1.50"
     },
     {
         "R#": "176",
-        "ADP": "122.6",
+        "ADP": "123.6",
         "PLAYER": "Aaron Gordon",
         "POS": "SF,PF",
         "Team": "DEN",
@@ -3341,7 +3341,7 @@
         "STL": "0.8",
         "BLK": "0.8",
         "TO": "2.1",
-        "TOTAL": "-1.48"
+        "TOTAL": "-1.55"
     },
     {
         "R#": "177",
@@ -3360,11 +3360,11 @@
         "STL": "0.7",
         "BLK": "0.1",
         "TO": "2.4",
-        "TOTAL": "-1.54"
+        "TOTAL": "-1.60"
     },
     {
         "R#": "178",
-        "ADP": "138.5",
+        "ADP": "138.6",
         "PLAYER": "Marvin Bagley III",
         "POS": "PF,C",
         "Team": "SAC",
@@ -3379,11 +3379,11 @@
         "STL": "0.5",
         "BLK": "0.5",
         "TO": "1.4",
-        "TOTAL": "-1.55"
+        "TOTAL": "-1.61"
     },
     {
         "R#": "179",
-        "ADP": "141.7",
+        "ADP": "141.6",
         "PLAYER": "Cole Anthony",
         "POS": "PG",
         "Team": "ORL",
@@ -3398,11 +3398,11 @@
         "STL": "0.7",
         "BLK": "0.4",
         "TO": "2.2",
-        "TOTAL": "-1.60"
+        "TOTAL": "-1.66"
     },
     {
         "R#": "180",
-        "ADP": "137.4",
+        "ADP": "137.5",
         "PLAYER": "Talen Horton-Tucker",
         "POS": "SG,SF",
         "Team": "LAL",
@@ -3417,11 +3417,11 @@
         "STL": "1.2",
         "BLK": "0.4",
         "TO": "1.9",
-        "TOTAL": "-1.65"
+        "TOTAL": "-1.72"
     },
     {
         "R#": "181",
-        "ADP": "138.1",
+        "ADP": "138.5",
         "PLAYER": "Eric Bledsoe",
         "POS": "PG,SG",
         "Team": "LAC",
@@ -3436,11 +3436,11 @@
         "STL": "1.0",
         "BLK": "0.3",
         "TO": "1.7",
-        "TOTAL": "-1.66"
+        "TOTAL": "-1.72"
     },
     {
         "R#": "182",
-        "ADP": "137.1",
+        "ADP": "137.4",
         "PLAYER": "Coby White",
         "POS": "PG,SG",
         "Team": "CHI",
@@ -3455,11 +3455,11 @@
         "STL": "0.5",
         "BLK": "0.2",
         "TO": "2.0",
-        "TOTAL": "-1.67"
+        "TOTAL": "-1.73"
     },
     {
         "R#": "183",
-        "ADP": "97.2",
+        "ADP": "98.4",
         "PLAYER": "Andre Drummond",
         "POS": "C",
         "Team": "PHI",
@@ -3474,11 +3474,11 @@
         "STL": "0.9",
         "BLK": "1.0",
         "TO": "1.5",
-        "TOTAL": "-1.68"
+        "TOTAL": "-1.74"
     },
     {
         "R#": "184",
-        "ADP": "146.2",
+        "ADP": "146.1",
         "PLAYER": "Killian Hayes",
         "POS": "PG,SG",
         "Team": "DET",
@@ -3493,11 +3493,11 @@
         "STL": "1.1",
         "BLK": "0.5",
         "TO": "3.6",
-        "TOTAL": "-1.69"
+        "TOTAL": "-1.75"
     },
     {
         "R#": "185",
-        "ADP": "126.7",
+        "ADP": "127.2",
         "PLAYER": "John Wall",
         "POS": "PG",
         "Team": "HOU",
@@ -3512,11 +3512,11 @@
         "STL": "0.9",
         "BLK": "0.6",
         "TO": "2.4",
-        "TOTAL": "-1.70"
+        "TOTAL": "-1.77"
     },
     {
         "R#": "186",
-        "ADP": "142.1",
+        "ADP": "141.4",
         "PLAYER": "Juan Toscano-Anderson",
         "POS": "SF,PF",
         "Team": "GSW",
@@ -3531,11 +3531,11 @@
         "STL": "0.8",
         "BLK": "0.5",
         "TO": "1.2",
-        "TOTAL": "-1.76"
+        "TOTAL": "-1.83"
     },
     {
         "R#": "187",
-        "ADP": "144.4",
+        "ADP": "144.2",
         "PLAYER": "Jalen Brunson",
         "POS": "PG,SG",
         "Team": "DAL",
@@ -3550,10 +3550,29 @@
         "STL": "0.5",
         "BLK": "0.0",
         "TO": "1.2",
-        "TOTAL": "-1.78"
+        "TOTAL": "-1.85"
     },
     {
         "R#": "188",
+        "ADP": null,
+        "PLAYER": "Bruce Brown",
+        "POS": "SG",
+        "Team": "BRO",
+        "GP": "74",
+        "MPG": "22.8",
+        "FG%": "0.555  (3.5\/6.4)",
+        "FT%": "0.723  (1.3\/1.8)",
+        "3PM": "0.3",
+        "PTS": "8.7",
+        "TREB": "5.3",
+        "AST": "1.6",
+        "STL": "0.9",
+        "BLK": "0.4",
+        "TO": "0.8",
+        "TOTAL": "-1.90"
+    },
+    {
+        "R#": "189",
         "ADP": null,
         "PLAYER": "Devin Vassell",
         "POS": "SG",
@@ -3569,11 +3588,11 @@
         "STL": "1.0",
         "BLK": "0.4",
         "TO": "0.6",
-        "TOTAL": "-1.84"
+        "TOTAL": "-1.90"
     },
     {
-        "R#": "189",
-        "ADP": "134.4",
+        "R#": "190",
+        "ADP": "134.1",
         "PLAYER": "Scottie Barnes",
         "POS": "SF",
         "Team": "TOR",
@@ -3588,11 +3607,11 @@
         "STL": "1.2",
         "BLK": "0.5",
         "TO": "2.0",
-        "TOTAL": "-1.85"
+        "TOTAL": "-1.92"
     },
     {
-        "R#": "190",
-        "ADP": "143.3",
+        "R#": "191",
+        "ADP": "143.4",
         "PLAYER": "Rui Hachimura",
         "POS": "SF,PF",
         "Team": "WAS",
@@ -3607,11 +3626,11 @@
         "STL": "0.8",
         "BLK": "0.1",
         "TO": "1.2",
-        "TOTAL": "-1.86"
+        "TOTAL": "-1.92"
     },
     {
-        "R#": "191",
-        "ADP": "137.5",
+        "R#": "192",
+        "ADP": "137.6",
         "PLAYER": "Monte Morris",
         "POS": "PG,SG",
         "Team": "DEN",
@@ -3626,11 +3645,11 @@
         "STL": "0.7",
         "BLK": "0.3",
         "TO": "0.7",
-        "TOTAL": "-1.87"
+        "TOTAL": "-1.94"
     },
     {
-        "R#": "192",
-        "ADP": "136.2",
+        "R#": "193",
+        "ADP": "136.3",
         "PLAYER": "Kevin Love",
         "POS": "PF,C",
         "Team": "CLE",
@@ -3645,10 +3664,10 @@
         "STL": "0.5",
         "BLK": "0.1",
         "TO": "1.3",
-        "TOTAL": "-1.90"
+        "TOTAL": "-1.97"
     },
     {
-        "R#": "193",
+        "R#": "194",
         "ADP": null,
         "PLAYER": "Oshae Brissett",
         "POS": "SF,PF",
@@ -3664,11 +3683,11 @@
         "STL": "0.7",
         "BLK": "0.8",
         "TO": "0.4",
-        "TOTAL": "-1.92"
+        "TOTAL": "-1.99"
     },
     {
-        "R#": "194",
-        "ADP": "141.5",
+        "R#": "195",
+        "ADP": "139.4",
         "PLAYER": "Otto Porter Jr.",
         "POS": "SF,PF",
         "Team": "GSW",
@@ -3683,10 +3702,10 @@
         "STL": "0.6",
         "BLK": "0.1",
         "TO": "1.0",
-        "TOTAL": "-1.94"
+        "TOTAL": "-2.00"
     },
     {
-        "R#": "195",
+        "R#": "196",
         "ADP": null,
         "PLAYER": "Alec Burks",
         "POS": "SG,SF",
@@ -3702,11 +3721,11 @@
         "STL": "0.5",
         "BLK": "0.3",
         "TO": "0.9",
-        "TOTAL": "-1.94"
+        "TOTAL": "-2.01"
     },
     {
-        "R#": "196",
-        "ADP": "140.9",
+        "R#": "197",
+        "ADP": "141.4",
         "PLAYER": "Josh Richardson",
         "POS": "SG,SF",
         "Team": "BOS",
@@ -3721,11 +3740,11 @@
         "STL": "0.8",
         "BLK": "0.3",
         "TO": "1.1",
-        "TOTAL": "-1.98"
+        "TOTAL": "-2.05"
     },
     {
-        "R#": "197",
-        "ADP": "131.7",
+        "R#": "198",
+        "ADP": "132.0",
         "PLAYER": "Justin Holiday",
         "POS": "SG,SF",
         "Team": "IND",
@@ -3740,11 +3759,11 @@
         "STL": "0.9",
         "BLK": "0.5",
         "TO": "0.7",
-        "TOTAL": "-1.99"
+        "TOTAL": "-2.05"
     },
     {
-        "R#": "198",
-        "ADP": "133.1",
+        "R#": "199",
+        "ADP": "134.0",
         "PLAYER": "Kelly Oubre Jr.",
         "POS": "SG,SF",
         "Team": "CHA",
@@ -3759,11 +3778,11 @@
         "STL": "0.9",
         "BLK": "0.7",
         "TO": "1.1",
-        "TOTAL": "-2.06"
+        "TOTAL": "-2.12"
     },
     {
-        "R#": "199",
-        "ADP": "132.8",
+        "R#": "200",
+        "ADP": "133.3",
         "PLAYER": "Nicolas Claxton",
         "POS": "C",
         "Team": "BRO",
@@ -3778,25 +3797,6 @@
         "STL": "0.8",
         "BLK": "1.5",
         "TO": "0.7",
-        "TOTAL": "-2.10"
-    },
-    {
-        "R#": "200",
-        "ADP": "129.3",
-        "PLAYER": "Gary Trent Jr.",
-        "POS": "SG,SF",
-        "Team": "TOR",
-        "GP": "70",
-        "MPG": "31.1",
-        "FG%": "0.408  (5.3\/13.0)",
-        "FT%": "0.776  (1.4\/1.7)",
-        "3PM": "2.7",
-        "PTS": "14.7",
-        "TREB": "2.6",
-        "AST": "1.4",
-        "STL": "1.0",
-        "BLK": "0.2",
-        "TO": "0.7",
-        "TOTAL": "-2.10"
+        "TOTAL": "-2.16"
     }
 ]

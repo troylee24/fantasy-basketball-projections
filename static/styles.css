@@ -1,6 +1,6 @@
 body {
     margin: auto;
-    width: 90%
+    width: 80%
 }
 
 #container {
@@ -64,14 +64,75 @@ header {
     background-color: rgb(59, 123, 206)
 }
 
-table.sortable thead {
-    cursor: default;
-}
-
-#headers, table {
+table {
     cursor: pointer;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
 }
 
-#table2 {
-    display: none;
+/* The actual popup (appears on top) */
+.popup {
+    width: 250px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 2px;
+    z-index: 1;
+}
+
+/* Popup arrow */
+.popup::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.show {
+    animation: fadeIn 0.3s;
+}
+
+.hide {
+    animation: fadeOut 0.3s;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:0.9 ;}
+}
+
+@keyframes fadeOut {
+    from {opacity: 0.9;}
+    to {opacity: 0;}
+}
+
+.elite {
+    background-color: #18ff18;
+    /* background-color: #079B00; */
+}
+
+.vgood {
+    background-color: #9f9;
+    /* background-color: #5CD856; */
+}
+
+.good {
+    background-color: #cfffcf;
+    /* background-color: #ABE58A; */
+}
+
+.bavg {
+    background-color: #ff9494;
+    /* background-color: #D89D9D; */
+}
+
+.ngood {
+    background-color: #ff2f2f;
+    /* background-color: #E70B0B; */
 }

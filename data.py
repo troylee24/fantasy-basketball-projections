@@ -2,29 +2,40 @@ import requests
 import pandas as pd
 import json
 from bs4 import BeautifulSoup
+from collections import defaultdict
 
-projections_file = "projections.json"
-grades_file = "grades.json"
+projections_file = "data/projections.json"
+grades_file = "data/grades.json"
 url = "https://hashtagbasketball.com/fantasy-basketball-projections"
 headers = {
 	"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36",
 	"X-Requested-With": "XMLHttpRequest"
 }
 
-def html_to_json():
+def html_to_projections():
 	r = requests.get(url, headers=headers)
 	df = pd.read_html(r.text)[2]
 	df = df[df.PLAYER != "PLAYER"]
 	df.rename(columns={df.columns[4]: "Team", df.columns[5]: "GP"}, inplace=True)
 	df.to_json(projections_file, orient="records")
 
-def get_grades():
+def html_to_grades():
 	r = requests.get(url, headers=headers)
 	grades = {"elite", "vgood", "good", "bavg", "ngood"}
-	# cats = {"FGP", "FTP", "TGM", "PTS", "REB", "AST", "STL", "BLK", "TUR"}
+	cats = {
+		"FGP": "FG%",
+		"FTP": "FT%",
+		"TGM": "3PM",
+		"PTS": "PTS",
+		"REB": "TREB",
+		"AST": "AST",
+		"STL": "STL",
+		"BLK": "BLK",
+		"TUR": "TO"
+	}
 	soup = BeautifulSoup(r.text, "html.parser")
 	tds = soup.find_all('td')
-	labeled_tds = []
+	labeled_tds = defaultdict(dict)
 
 	for td in tds:
 		if td.has_attr('class'):
@@ -33,25 +44,24 @@ def get_grades():
 				continue
 			input = td.find_all('input')[1]
 			id = input.get('id').split('_')
-			cat = id[-2][2:]
+			cat = cats[id[-2][2:]]
 			# if cat not in cats: print("ERROR")
-			row = int(id[-1])
-			labeled_tds.append({
-				'row': row,
-				'cat': cat,
-				'grade': grade
-			})
+			rank = int(id[-1]) + 1
+			labeled_tds[rank][cat] = grade
 	
-	# for td in labeled_tds:
-	# 	print(td)
+	labeled_tds = [dict(labeled_tds)]
 	with open(grades_file, 'w') as f:
 		json.dump(labeled_tds, f)
 
 def get_projections():
 	with open(projections_file, 'r') as f:
 		projections = json.load(f)
-	return projections
+	with open(grades_file, 'r') as f:
+		grades = json.load(f)
+	
+	return projections, grades
 
 if __name__ == "__main__":
-	html_to_json()
-	get_grades()
+	html_to_projections()
+	html_to_grades()
+	# get_projections()

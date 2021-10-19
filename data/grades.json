@@ -1,0 +1,1670 @@
+[
+    {
+        "1": {
+            "FG%": "elite",
+            "FT%": "vgood",
+            "3PM": "bavg",
+            "PTS": "vgood",
+            "TREB": "elite",
+            "AST": "elite",
+            "STL": "good",
+            "TO": "ngood"
+        },
+        "2": {
+            "FT%": "elite",
+            "3PM": "good",
+            "PTS": "vgood",
+            "TREB": "good",
+            "AST": "elite",
+            "STL": "good",
+            "BLK": "good",
+            "TO": "ngood"
+        },
+        "3": {
+            "FG%": "good",
+            "FT%": "elite",
+            "3PM": "elite",
+            "PTS": "elite",
+            "AST": "vgood",
+            "STL": "good",
+            "BLK": "ngood",
+            "TO": "ngood"
+        },
+        "4": {
+            "FG%": "vgood",
+            "FT%": "elite",
+            "3PM": "good",
+            "PTS": "vgood",
+            "TREB": "good",
+            "AST": "good",
+            "STL": "bavg",
+            "BLK": "vgood",
+            "TO": "ngood"
+        },
+        "5": {
+            "FG%": "bavg",
+            "FT%": "elite",
+            "3PM": "elite",
+            "PTS": "vgood",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "6": {
+            "FG%": "good",
+            "FT%": "vgood",
+            "3PM": "good",
+            "PTS": "vgood",
+            "TREB": "vgood",
+            "AST": "good",
+            "BLK": "vgood",
+            "TO": "ngood"
+        },
+        "7": {
+            "FT%": "elite",
+            "3PM": "good",
+            "PTS": "elite",
+            "AST": "vgood",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "8": {
+            "FG%": "good",
+            "FT%": "vgood",
+            "3PM": "bavg",
+            "PTS": "vgood",
+            "TREB": "vgood",
+            "BLK": "vgood",
+            "TO": "ngood"
+        },
+        "9": {
+            "FT%": "vgood",
+            "3PM": "good",
+            "PTS": "vgood",
+            "TREB": "good",
+            "AST": "good",
+            "STL": "good",
+            "TO": "bavg"
+        },
+        "10": {
+            "FG%": "elite",
+            "FT%": "ngood",
+            "3PM": "bavg",
+            "PTS": "vgood",
+            "TREB": "elite",
+            "AST": "vgood",
+            "STL": "good",
+            "BLK": "vgood",
+            "TO": "ngood"
+        },
+        "11": {
+            "FT%": "vgood",
+            "3PM": "vgood",
+            "PTS": "vgood",
+            "TREB": "good",
+            "AST": "good",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "12": {
+            "FG%": "good",
+            "FT%": "ngood",
+            "3PM": "good",
+            "PTS": "vgood",
+            "TREB": "good",
+            "AST": "elite",
+            "TO": "ngood"
+        },
+        "13": {
+            "FG%": "good",
+            "3PM": "bavg",
+            "PTS": "vgood",
+            "TREB": "vgood",
+            "AST": "bavg",
+            "STL": "good",
+            "BLK": "elite",
+            "TO": "bavg"
+        },
+        "14": {
+            "FG%": "bavg",
+            "FT%": "elite",
+            "3PM": "good",
+            "PTS": "vgood",
+            "TREB": "bavg",
+            "AST": "elite",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "15": {
+            "FG%": "good",
+            "FT%": "vgood",
+            "3PM": "good",
+            "PTS": "vgood",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "good",
+            "TO": "bavg"
+        },
+        "16": {
+            "FG%": "elite",
+            "3PM": "ngood",
+            "PTS": "good",
+            "TREB": "vgood",
+            "AST": "good",
+            "STL": "good",
+            "BLK": "good",
+            "TO": "bavg"
+        },
+        "17": {
+            "FG%": "ngood",
+            "FT%": "vgood",
+            "3PM": "vgood",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "STL": "vgood"
+        },
+        "18": {
+            "FG%": "good",
+            "FT%": "elite",
+            "3PM": "ngood",
+            "PTS": "good",
+            "AST": "good",
+            "STL": "vgood",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "19": {
+            "FG%": "vgood",
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "PTS": "good",
+            "TREB": "elite",
+            "AST": "vgood",
+            "STL": "good",
+            "TO": "ngood"
+        },
+        "20": {
+            "FG%": "vgood",
+            "FT%": "good",
+            "PTS": "vgood",
+            "AST": "vgood",
+            "TO": "ngood"
+        },
+        "21": {
+            "FT%": "good",
+            "PTS": "good",
+            "TREB": "elite",
+            "BLK": "good"
+        },
+        "22": {
+            "FG%": "vgood",
+            "FT%": "ngood",
+            "3PM": "good",
+            "PTS": "vgood",
+            "TREB": "good",
+            "AST": "vgood",
+            "STL": "good",
+            "TO": "ngood"
+        },
+        "23": {
+            "FG%": "good",
+            "FT%": "vgood",
+            "AST": "elite",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "24": {
+            "FG%": "good",
+            "FT%": "good",
+            "3PM": "vgood",
+            "PTS": "vgood",
+            "AST": "good",
+            "STL": "bavg",
+            "TO": "ngood"
+        },
+        "25": {
+            "FG%": "bavg",
+            "PTS": "good",
+            "TREB": "good",
+            "AST": "vgood",
+            "STL": "elite",
+            "TO": "ngood"
+        },
+        "26": {
+            "FG%": "vgood",
+            "3PM": "vgood",
+            "PTS": "good",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "good"
+        },
+        "27": {
+            "FG%": "good",
+            "PTS": "good",
+            "AST": "vgood",
+            "STL": "vgood",
+            "TO": "bavg"
+        },
+        "28": {
+            "FT%": "good",
+            "PTS": "good",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "good",
+            "BLK": "elite"
+        },
+        "29": {
+            "FG%": "elite",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "TREB": "elite",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "elite"
+        },
+        "30": {
+            "FG%": "elite",
+            "3PM": "ngood",
+            "TREB": "vgood",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "elite",
+            "TO": "good"
+        },
+        "31": {
+            "FG%": "good",
+            "FT%": "good",
+            "3PM": "bavg",
+            "PTS": "good",
+            "TREB": "good",
+            "BLK": "good"
+        },
+        "32": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "vgood",
+            "PTS": "vgood",
+            "AST": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "33": {
+            "FT%": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "BLK": "elite"
+        },
+        "34": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "vgood",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "vgood",
+            "TO": "good"
+        },
+        "35": {
+            "FG%": "good",
+            "3PM": "good",
+            "PTS": "vgood",
+            "STL": "good",
+            "TO": "bavg"
+        },
+        "36": {
+            "FT%": "vgood",
+            "3PM": "good",
+            "PTS": "vgood",
+            "AST": "good",
+            "STL": "bavg",
+            "TO": "bavg"
+        },
+        "37": {
+            "FG%": "elite",
+            "3PM": "ngood",
+            "TREB": "elite",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "vgood"
+        },
+        "38": {
+            "FG%": "elite",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "TREB": "elite",
+            "AST": "ngood",
+            "STL": "bavg",
+            "BLK": "elite",
+            "TO": "good"
+        },
+        "39": {
+            "FT%": "vgood",
+            "3PM": "good",
+            "PTS": "good",
+            "AST": "good",
+            "STL": "good",
+            "BLK": "ngood",
+            "TO": "bavg"
+        },
+        "40": {
+            "FG%": "good",
+            "FT%": "vgood",
+            "PTS": "vgood",
+            "TREB": "bavg",
+            "AST": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "41": {
+            "FT%": "good",
+            "PTS": "good",
+            "TREB": "vgood",
+            "AST": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "42": {
+            "3PM": "good",
+            "PTS": "good",
+            "STL": "vgood"
+        },
+        "43": {
+            "3PM": "good",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "STL": "good"
+        },
+        "44": {
+            "FG%": "elite",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "BLK": "elite",
+            "TO": "good"
+        },
+        "45": {
+            "FG%": "elite",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "PTS": "vgood",
+            "TREB": "good",
+            "AST": "good",
+            "TO": "ngood"
+        },
+        "46": {
+            "3PM": "vgood",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "BLK": "bavg"
+        },
+        "47": {
+            "FG%": "ngood",
+            "3PM": "good",
+            "AST": "vgood",
+            "STL": "vgood",
+            "TO": "bavg"
+        },
+        "48": {
+            "FG%": "elite",
+            "FT%": "good",
+            "3PM": "bavg",
+            "PTS": "good",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "ngood",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "49": {
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "elite",
+            "STL": "vgood",
+            "BLK": "good",
+            "TO": "ngood"
+        },
+        "50": {
+            "FT%": "good",
+            "PTS": "good",
+            "AST": "good",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "51": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "bavg",
+            "PTS": "good",
+            "TREB": "good",
+            "AST": "good",
+            "STL": "good",
+            "TO": "bavg"
+        },
+        "52": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "BLK": "good"
+        },
+        "53": {
+            "FT%": "ngood",
+            "PTS": "vgood",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "STL": "vgood",
+            "TO": "ngood"
+        },
+        "54": {
+            "3PM": "bavg",
+            "TREB": "good",
+            "AST": "vgood",
+            "STL": "vgood",
+            "BLK": "ngood"
+        },
+        "55": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "good",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "STL": "good",
+            "BLK": "bavg"
+        },
+        "56": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "TREB": "vgood",
+            "BLK": "vgood",
+            "TO": "bavg"
+        },
+        "57": {
+            "FG%": "vgood",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "vgood",
+            "AST": "bavg",
+            "BLK": "elite"
+        },
+        "58": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "good",
+            "PTS": "good",
+            "AST": "vgood",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "59": {
+            "FG%": "good",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "good",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "60": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "good",
+            "BLK": "bavg"
+        },
+        "61": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "good",
+            "AST": "vgood",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "62": {
+            "FG%": "vgood",
+            "3PM": "ngood",
+            "TREB": "vgood",
+            "AST": "bavg",
+            "STL": "ngood",
+            "BLK": "good"
+        },
+        "63": {
+            "FT%": "good",
+            "3PM": "vgood",
+            "TREB": "bavg",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "64": {
+            "FT%": "good",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "ngood",
+            "AST": "vgood",
+            "STL": "good",
+            "BLK": "ngood",
+            "TO": "ngood"
+        },
+        "65": {
+            "FT%": "ngood",
+            "3PM": "bavg",
+            "PTS": "good",
+            "TREB": "good",
+            "AST": "elite",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "66": {
+            "FT%": "bavg",
+            "PTS": "good",
+            "AST": "elite",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "67": {
+            "FG%": "bavg",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "good",
+            "TO": "bavg"
+        },
+        "68": {
+            "FG%": "bavg",
+            "FT%": "vgood",
+            "PTS": "good",
+            "STL": "bavg",
+            "BLK": "good"
+        },
+        "69": {
+            "FT%": "good",
+            "PTS": "vgood",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "70": {
+            "FG%": "ngood",
+            "FT%": "vgood",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "BLK": "bavg"
+        },
+        "71": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "vgood",
+            "AST": "bavg",
+            "BLK": "vgood"
+        },
+        "72": {
+            "FG%": "ngood",
+            "3PM": "good",
+            "PTS": "good",
+            "STL": "good",
+            "TO": "bavg"
+        },
+        "73": {
+            "FT%": "good",
+            "3PM": "bavg",
+            "PTS": "good",
+            "AST": "good",
+            "STL": "good",
+            "BLK": "bavg"
+        },
+        "74": {
+            "FG%": "vgood",
+            "FT%": "ngood",
+            "PTS": "good",
+            "TREB": "vgood",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "good"
+        },
+        "75": {
+            "FG%": "elite",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "TREB": "vgood",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "vgood"
+        },
+        "76": {
+            "FG%": "bavg",
+            "FT%": "bavg",
+            "TREB": "good",
+            "STL": "good",
+            "BLK": "vgood",
+            "TO": "bavg"
+        },
+        "77": {
+            "FG%": "bavg",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "good",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "78": {
+            "FG%": "good",
+            "FT%": "elite",
+            "3PM": "ngood",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "bavg",
+            "BLK": "bavg"
+        },
+        "79": {
+            "FG%": "bavg",
+            "FT%": "bavg",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "80": {
+            "FG%": "good",
+            "3PM": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "elite",
+            "TO": "good"
+        },
+        "81": {
+            "FG%": "vgood",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "TREB": "good",
+            "AST": "vgood",
+            "STL": "vgood",
+            "TO": "ngood"
+        },
+        "82": {
+            "FG%": "vgood",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "ngood",
+            "STL": "good",
+            "BLK": "elite",
+            "TO": "good"
+        },
+        "83": {
+            "FG%": "bavg",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "STL": "vgood"
+        },
+        "84": {
+            "FG%": "bavg",
+            "3PM": "good",
+            "TREB": "bavg",
+            "STL": "good",
+            "TO": "bavg"
+        },
+        "85": {
+            "FG%": "ngood",
+            "FT%": "bavg",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "86": {
+            "FT%": "good",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "BLK": "bavg"
+        },
+        "87": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "STL": "good",
+            "TO": "ngood"
+        },
+        "88": {
+            "3PM": "good",
+            "TREB": "bavg",
+            "STL": "good"
+        },
+        "89": {
+            "FT%": "good",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "BLK": "bavg"
+        },
+        "90": {
+            "FG%": "ngood",
+            "3PM": "vgood",
+            "BLK": "bavg"
+        },
+        "91": {
+            "FG%": "good",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "STL": "vgood",
+            "BLK": "bavg"
+        },
+        "92": {
+            "FG%": "good",
+            "FT%": "good",
+            "3PM": "bavg",
+            "AST": "ngood",
+            "STL": "bavg",
+            "BLK": "vgood",
+            "TO": "good"
+        },
+        "93": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "PTS": "ngood",
+            "TREB": "good",
+            "AST": "ngood",
+            "BLK": "elite",
+            "TO": "good"
+        },
+        "94": {
+            "FT%": "good",
+            "TREB": "good"
+        },
+        "95": {
+            "FG%": "good",
+            "FT%": "good",
+            "TREB": "good",
+            "STL": "bavg",
+            "BLK": "bavg"
+        },
+        "96": {
+            "FG%": "bavg",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "97": {
+            "FG%": "good",
+            "FT%": "good",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "good"
+        },
+        "98": {
+            "FG%": "bavg",
+            "3PM": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "BLK": "bavg"
+        },
+        "99": {
+            "FG%": "ngood",
+            "FT%": "good",
+            "3PM": "vgood",
+            "AST": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "100": {
+            "FG%": "vgood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "101": {
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "AST": "bavg",
+            "STL": "good",
+            "BLK": "vgood",
+            "TO": "good"
+        },
+        "102": {
+            "FT%": "good",
+            "3PM": "bavg",
+            "AST": "bavg",
+            "TO": "good"
+        },
+        "103": {
+            "FT%": "ngood",
+            "PTS": "good",
+            "AST": "bavg",
+            "BLK": "good"
+        },
+        "104": {
+            "FG%": "vgood",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "vgood",
+            "STL": "bavg",
+            "BLK": "good"
+        },
+        "105": {
+            "FG%": "bavg",
+            "FT%": "vgood",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "ngood",
+            "STL": "bavg",
+            "BLK": "bavg"
+        },
+        "106": {
+            "FT%": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "107": {
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "elite",
+            "TO": "bavg"
+        },
+        "108": {
+            "FG%": "good",
+            "3PM": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "TO": "good"
+        },
+        "109": {
+            "FG%": "ngood",
+            "FT%": "good",
+            "3PM": "vgood",
+            "PTS": "good",
+            "TREB": "bavg",
+            "BLK": "ngood"
+        },
+        "110": {
+            "3PM": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "bavg",
+            "BLK": "bavg"
+        },
+        "111": {
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "STL": "good",
+            "TO": "good"
+        },
+        "112": {
+            "FG%": "bavg",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "STL": "good",
+            "TO": "good"
+        },
+        "113": {
+            "FG%": "good",
+            "3PM": "vgood",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "114": {
+            "FG%": "vgood",
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "ngood",
+            "STL": "bavg",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "115": {
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "TO": "good"
+        },
+        "116": {
+            "FG%": "bavg",
+            "FT%": "bavg",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "ngood"
+        },
+        "117": {
+            "FG%": "elite",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "AST": "ngood",
+            "STL": "bavg",
+            "BLK": "elite",
+            "TO": "good"
+        },
+        "118": {
+            "FG%": "bavg",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "STL": "good"
+        },
+        "119": {
+            "FG%": "bavg",
+            "3PM": "good",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "good",
+            "TO": "good"
+        },
+        "120": {
+            "FG%": "vgood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "ngood",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "121": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "122": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "STL": "good"
+        },
+        "123": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "TREB": "vgood",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "good"
+        },
+        "124": {
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "ngood",
+            "BLK": "elite",
+            "TO": "good"
+        },
+        "125": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "bavg",
+            "TREB": "bavg",
+            "AST": "good",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "126": {
+            "FT%": "bavg",
+            "PTS": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "vgood",
+            "TO": "good"
+        },
+        "127": {
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "STL": "bavg",
+            "TO": "good"
+        },
+        "128": {
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "STL": "vgood",
+            "BLK": "bavg"
+        },
+        "129": {
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "PTS": "ngood",
+            "TREB": "ngood",
+            "AST": "bavg",
+            "STL": "vgood",
+            "BLK": "vgood",
+            "TO": "vgood"
+        },
+        "130": {
+            "FG%": "bavg",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "131": {
+            "FG%": "elite",
+            "FT%": "ngood",
+            "3PM": "bavg",
+            "AST": "bavg",
+            "STL": "ngood",
+            "TO": "good"
+        },
+        "132": {
+            "FG%": "bavg",
+            "TREB": "bavg",
+            "BLK": "bavg"
+        },
+        "133": {
+            "FG%": "bavg",
+            "FT%": "bavg",
+            "PTS": "good",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "134": {
+            "FG%": "vgood",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "135": {
+            "FG%": "vgood",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "AST": "good"
+        },
+        "136": {
+            "FG%": "bavg",
+            "STL": "ngood",
+            "BLK": "good",
+            "TO": "bavg"
+        },
+        "137": {
+            "FG%": "ngood",
+            "FT%": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "good",
+            "BLK": "bavg"
+        },
+        "138": {
+            "FG%": "bavg",
+            "FT%": "bavg",
+            "AST": "bavg",
+            "STL": "bavg"
+        },
+        "139": {
+            "FT%": "good",
+            "3PM": "bavg",
+            "TREB": "ngood",
+            "AST": "good",
+            "BLK": "bavg"
+        },
+        "140": {
+            "3PM": "good",
+            "TREB": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "141": {
+            "FG%": "ngood",
+            "FT%": "good",
+            "TREB": "bavg",
+            "AST": "bavg"
+        },
+        "142": {
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "TO": "bavg"
+        },
+        "143": {
+            "FG%": "bavg",
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "good",
+            "STL": "good",
+            "TO": "ngood"
+        },
+        "144": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "PTS": "bavg",
+            "TREB": "ngood",
+            "AST": "good",
+            "STL": "vgood",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "145": {
+            "PTS": "ngood",
+            "TREB": "good",
+            "TO": "good"
+        },
+        "146": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "good",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "ngood"
+        },
+        "147": {
+            "FG%": "ngood",
+            "FT%": "bavg",
+            "TREB": "bavg",
+            "STL": "good",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "148": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "vgood",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "149": {
+            "FG%": "bavg",
+            "FT%": "vgood",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "150": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "AST": "bavg",
+            "BLK": "good",
+            "TO": "vgood"
+        },
+        "151": {
+            "FG%": "bavg",
+            "3PM": "vgood",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "ngood",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "152": {
+            "FG%": "good",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "ngood",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "153": {
+            "FG%": "good",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "good"
+        },
+        "154": {
+            "3PM": "good",
+            "AST": "ngood",
+            "STL": "ngood",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "155": {
+            "FT%": "good",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "156": {
+            "FG%": "ngood",
+            "FT%": "good",
+            "3PM": "good",
+            "TREB": "ngood",
+            "AST": "good",
+            "BLK": "ngood"
+        },
+        "157": {
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "158": {
+            "FG%": "bavg",
+            "PTS": "bavg",
+            "STL": "good",
+            "BLK": "bavg"
+        },
+        "159": {
+            "FG%": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg"
+        },
+        "160": {
+            "FG%": "vgood",
+            "3PM": "bavg",
+            "PTS": "good",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "ngood",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "161": {
+            "PTS": "bavg",
+            "AST": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "162": {
+            "3PM": "good",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "163": {
+            "3PM": "good",
+            "TREB": "ngood",
+            "BLK": "ngood",
+            "TO": "good"
+        },
+        "164": {
+            "FT%": "good",
+            "3PM": "bavg",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "165": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "ngood",
+            "TREB": "bavg",
+            "AST": "good",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "166": {
+            "FG%": "good",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "AST": "bavg",
+            "STL": "ngood",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "167": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "good",
+            "TO": "good"
+        },
+        "168": {
+            "FG%": "bavg",
+            "3PM": "good",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "169": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "good",
+            "BLK": "ngood"
+        },
+        "170": {
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "TO": "good"
+        },
+        "171": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "TO": "vgood"
+        },
+        "172": {
+            "FG%": "bavg",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "173": {
+            "FG%": "bavg",
+            "3PM": "good",
+            "PTS": "bavg",
+            "AST": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "174": {
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "AST": "bavg"
+        },
+        "175": {
+            "FG%": "bavg",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "TO": "good"
+        },
+        "176": {
+            "FT%": "ngood",
+            "3PM": "bavg",
+            "STL": "bavg",
+            "BLK": "good",
+            "TO": "bavg"
+        },
+        "177": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "TREB": "bavg",
+            "AST": "good",
+            "STL": "bavg",
+            "BLK": "ngood",
+            "TO": "bavg"
+        },
+        "178": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "ngood"
+        },
+        "179": {
+            "FG%": "bavg",
+            "3PM": "bavg",
+            "AST": "good",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "180": {
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "STL": "good",
+            "BLK": "bavg"
+        },
+        "181": {
+            "FG%": "bavg",
+            "FT%": "bavg",
+            "TREB": "bavg",
+            "AST": "good",
+            "BLK": "bavg"
+        },
+        "182": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "TREB": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "bavg"
+        },
+        "183": {
+            "FG%": "good",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "BLK": "good"
+        },
+        "184": {
+            "FG%": "ngood",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "vgood",
+            "STL": "good",
+            "TO": "ngood"
+        },
+        "185": {
+            "FG%": "bavg",
+            "FT%": "bavg",
+            "3PM": "bavg",
+            "TREB": "ngood",
+            "AST": "good",
+            "TO": "bavg"
+        },
+        "186": {
+            "FG%": "good",
+            "3PM": "ngood",
+            "PTS": "ngood",
+            "TO": "good"
+        },
+        "187": {
+            "FG%": "good",
+            "3PM": "bavg",
+            "TREB": "bavg",
+            "STL": "ngood",
+            "BLK": "ngood",
+            "TO": "good"
+        },
+        "188": {
+            "FG%": "good",
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "AST": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "189": {
+            "FG%": "bavg",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "BLK": "bavg",
+            "TO": "vgood"
+        },
+        "190": {
+            "FT%": "bavg",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "STL": "good"
+        },
+        "191": {
+            "3PM": "bavg",
+            "AST": "bavg",
+            "BLK": "ngood",
+            "TO": "good"
+        },
+        "192": {
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "ngood",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "193": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "PTS": "bavg",
+            "TREB": "good",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "ngood",
+            "TO": "good"
+        },
+        "194": {
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "ngood",
+            "STL": "bavg",
+            "BLK": "good",
+            "TO": "vgood"
+        },
+        "195": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "PTS": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "ngood",
+            "TO": "good"
+        },
+        "196": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "STL": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "197": {
+            "FG%": "bavg",
+            "FT%": "good",
+            "3PM": "bavg",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "BLK": "bavg",
+            "TO": "good"
+        },
+        "198": {
+            "FG%": "bavg",
+            "3PM": "good",
+            "PTS": "bavg",
+            "TREB": "bavg",
+            "AST": "bavg",
+            "TO": "vgood"
+        },
+        "199": {
+            "FG%": "bavg",
+            "FT%": "ngood",
+            "3PM": "bavg",
+            "AST": "bavg",
+            "TO": "good"
+        },
+        "200": {
+            "FG%": "vgood",
+            "FT%": "ngood",
+            "3PM": "ngood",
+            "PTS": "bavg",
+            "AST": "bavg",
+            "BLK": "vgood",
+            "TO": "vgood"
+        }
+    }
+]

@@ -28,9 +28,9 @@
         <input type="button" id="tableViewButton" value="View Drafted">
     </div>
     <div id="tablesContainer">
-        <table id="table1" class="sortable table table-hover">
+        <table id="table1" class="sortable table table-striped table-hover">
             <thead>
-                <tr id="headers">
+                <tr id="tableHeaders" class="thead-dark">
                 {% for header in projections[0].keys() %}
                     <th>{{ header }}</th>
                 {% endfor %}
@@ -39,16 +39,16 @@
             <tbody id="data1">
             {% for row in projections %}
                 <tr>
-                {% for value in row.values() %}
-                    <td>{{ value }}</td>
+                {% for key, value in row.items() %}
+                    <td class={{ grades[0][row["R#"]][key] }}>{{ value }}</td>
                 {% endfor %}
                 </tr>
             {% endfor %}
             </tbody>
         </table>
-        <table id="table2" class="sortable table table-hover">
+        <table id="table2" class="sortable table table-striped table-hover" style="display: none;">
             <thead>
-                <tr id="headers">
+                <tr id="tableHeaders" class="thead-dark">
                 {% for header in projections[0].keys() %}
                     <th>{{ header }}</th>
                 {% endfor %}
